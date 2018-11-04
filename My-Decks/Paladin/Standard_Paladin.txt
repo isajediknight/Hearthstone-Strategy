@@ -1,0 +1,33 @@
+### Standard Paladin
+# Class: Paladin
+# Format: Standard
+# Year of the Raven
+#
+# 1x (1) Argent Squire
+# 1x (1) Autodefense Matrix
+# 2x (1) Blessing of Wisdom
+# 1x (1) Glow-Tron
+# 2x (1) Hand of Protection
+# 1x (1) Lost in the Jungle
+# 1x (1) Noble Sacrifice
+# 1x (1) Redemption
+# 1x (1) Repentance
+# 1x (1) Righteous Protector
+# 1x (1) Young Priestess
+# 1x (2) Acidic Swamp Ooze
+# 2x (2) Argent Protector
+# 2x (2) Cloakscale Chemist
+# 2x (2) Desperate Stand
+# 1x (3) Howling Commander
+# 1x (4) Blessing of Kings
+# 1x (4) Consecration
+# 1x (4) Hammer of Wrath
+# 1x (4) Truesilver Champion
+# 1x (5) Blessed Champion
+# 2x (5) Cobalt Scalebane
+# 1x (5) Holy Wrath
+# 1x (5) Mechano-Egg
+# 
+AAECAZ8FEowB6AH6AbMD3APIBPUFzwaKB68H8gviDLjHAuPLAsTPAtb+Atj+ApGAAwbXBf4H3QrKywLIzgK2+wIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

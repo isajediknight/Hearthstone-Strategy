@@ -1,0 +1,29 @@
+### Deathrattle Warlock
+# Class: Warlock
+# Format: Wild
+#
+# 2x (0) Sacrificial Pact
+# 1x (1) Dark Possession
+# 2x (1) Mortal Coil
+# 1x (1) Possessed Villager
+# 2x (1) Power Overwhelming
+# 1x (1) Sanguine Reveler
+# 2x (1) Undertaker
+# 1x (1) Witchwood Imp
+# 2x (2) Nerubian Egg
+# 1x (2) Volatile Elemental
+# 2x (3) Spawn of N'Zoth
+# 1x (4) Baron Rivendare
+# 1x (4) Dreadsteed
+# 2x (4) Shadowflame
+# 2x (4) Voidcaller
+# 1x (5) Corpse Raiser
+# 1x (5) Rotten Applebaum
+# 1x (5) Skull of the Man'ari
+# 2x (5) Sludge Belcher
+# 1x (6) Possessed Lackey
+# 1x (8) Deranged Doctor
+# 
+AAEBAf0GDPsOhhb2rgK0xAKdzwKJ4gL85QLb6QLA7AK57wKe8QLF8wIJkwGjAc4GxAj6DYEOjg72Do2vAgA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

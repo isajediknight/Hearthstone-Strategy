@@ -1,0 +1,38 @@
+### Distinct Hunter
+# Class: Hunter
+# Format: Wild
+#
+# 1x (1) Play Dead
+# 1x (1) Webspinner
+# 1x (2) Freezing Trap
+# 1x (2) Mad Scientist
+# 1x (2) Misdirection
+# 1x (2) Scavenging Hyena
+# 1x (2) Venomstrike Trap
+# 1x (3) Deadly Shot
+# 1x (3) Forlorn Stalker
+# 1x (3) Infest
+# 1x (3) Kaboom Bot
+# 1x (3) Shaky Zipgunner
+# 1x (3) Terrorscale Stalker
+# 1x (4) Baron Rivendare
+# 1x (4) Infested Wolf
+# 1x (4) Multi-Shot
+# 1x (4) Polluted Hoarder
+# 1x (5) Carnivorous Cube
+# 1x (5) Corpse Raiser
+# 1x (5) Corpse Widow
+# 1x (5) Explosive Shot
+# 1x (5) Feugen
+# 1x (5) Necromechanic
+# 1x (5) Rotten Applebaum
+# 1x (5) Stalagg
+# 1x (6) Reno Jackson
+# 1x (7) Abominable Bowman
+# 1x (9) Call of the Wild
+# 1x (9) King Krush
+# 1x (10) N'Zoth, the Corruptor
+# 
+AAEBAR8epAKKA4cEwwjFCPgIgQr3DYQOhQ7EDvsOwxa5qwLgrALHrgLOrgLbrwKxsALpvQLYwgKdzAKczQLGzgKdzwLt0QKL4QLF8wLw9QL/gAMAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

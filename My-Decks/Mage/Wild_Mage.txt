@@ -1,0 +1,26 @@
+### Wild Mage
+# Class: Mage
+# Format: Wild
+#
+# 2x (0) Shifting Scroll
+# 2x (1) Arcane Missiles
+# 2x (1) Ice Lance
+# 2x (1) Mirror Image
+# 2x (2) Frostbolt
+# 2x (2) Mana Wyrm
+# 2x (2) Sorcerer's Apprentice
+# 2x (3) Arcane Intellect
+# 2x (3) Cinderstorm
+# 1x (3) Counterspell
+# 2x (3) Flamewaker
+# 1x (3) Mirror Entity
+# 1x (4) Cosmic Anomaly
+# 1x (4) Dalaran Aspirant
+# 2x (4) Fireball
+# 1x (4) Polymorph
+# 1x (5) Deck of Wonders
+# 2x (7) Flamestrike
+# 
+AAEBAf0EBk1xwwH1E6DTApX/AgysAbsClQOrBLQE5gSWBewHvAjjEZzTAvvsAgA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

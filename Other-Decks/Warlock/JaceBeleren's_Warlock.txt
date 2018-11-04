@@ -1,0 +1,29 @@
+### JaceBeleren's Warlock
+# Class: Warlock
+# Format: Wild
+#
+# 1x (0) Sacrificial Pact
+# 2x (1) Malchezaar's Imp
+# 2x (1) Soulfire
+# 1x (1) Voidwalker
+# 1x (2) Dark Peddler
+# 2x (2) Darkshire Librarian
+# 1x (2) Gnomeferatu
+# 2x (2) Succubus
+# 2x (2) Tiny Knight of Evil
+# 2x (3) Howlfiend
+# 2x (3) Silverware Golem
+# 1x (4) Blastcrystal Potion
+# 1x (4) Dreadsteed
+# 2x (4) Fist of Jaraxxus
+# 1x (4) Imp-losion
+# 1x (4) Lakkari Felhound
+# 1x (5) Doomguard
+# 1x (5) Skull of the Man'ari
+# 2x (6) Cruel Dinomancer
+# 1x (8) Deranged Doctor
+# 1x (10) Deathwing
+# 
+AAEBAf0GDDCjAfcEwgbdD4YWzxb9vwKRxwKuzQLb6QLA7AIJ0ATOB8QU2RWvrALUswK8tgKNxwKSzQIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

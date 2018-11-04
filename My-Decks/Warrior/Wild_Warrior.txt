@@ -1,0 +1,29 @@
+### Wild Warrior
+# Class: Warrior
+# Format: Wild
+#
+# 2x (0) Inner Rage
+# 2x (1) Animated Berserker
+# 1x (1) Whirlwind
+# 1x (2) Armorsmith
+# 1x (2) Battle Rage
+# 1x (2) Cruel Taskmaster
+# 1x (2) Execute
+# 1x (2) Unstable Ghoul
+# 1x (2) Warpath
+# 2x (3) Acolyte of Pain
+# 1x (3) Bash
+# 1x (3) Frothing Berserker
+# 2x (3) Ravaging Ghoul
+# 2x (4) Axe Flinger
+# 2x (4) Blood Razor
+# 2x (4) Death's Bite
+# 1x (4) Mortal Strike
+# 2x (5) Grim Patron
+# 1x (5) Gurubashi Berserker
+# 2x (6) Sea Reaver
+# 1x (8) Grommash Hellscream
+# 
+AAEBAQcMnQLSApAD1AT8BI4FgAaRBqQGkA6pFZvzAgkW+wyNDucR+RGjFYKtAszNArrOAgA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

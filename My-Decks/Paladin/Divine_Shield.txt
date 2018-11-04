@@ -1,0 +1,35 @@
+### Divine Shield
+# Class: Paladin
+# Format: Wild
+#
+# 1x (1) Argent Squire
+# 1x (1) Autodefense Matrix
+# 2x (1) Avenge
+# 1x (1) Competitive Spirit
+# 2x (1) Noble Sacrifice
+# 1x (1) Redemption
+# 1x (1) Repentance
+# 1x (1) Selfless Hero
+# 1x (2) Cloakscale Chemist
+# 1x (2) Crystalsmith Kangor
+# 1x (2) Grimestreet Outfitter
+# 1x (2) Shielded Minibot
+# 1x (3) Coghammer
+# 1x (3) Howling Commander
+# 1x (3) Lone Champion
+# 1x (3) Muster for Battle
+# 1x (3) Scarlet Crusader
+# 2x (3) Silent Knight
+# 1x (3) Steward of Darkshire
+# 1x (4) Consecration
+# 1x (4) Hammer of Wrath
+# 1x (4) Silvermoon Guardian
+# 1x (6) Argent Commander
+# 1x (6) Glowstone Technician
+# 1x (6) Mysterious Challenger
+# 1x (7) Guardian of Kings
+# 1x (8) Lay on Hands
+# 
+AAEBAZ8FGCKMAegB+gGZAtwD0gSCBfUFrAjqD+sP7Q/YFKYV1K4C/68C97wCxM8C0dMCtvsC/fsC2P4C3f4CA8gEjA6TFAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

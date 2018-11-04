@@ -1,0 +1,38 @@
+### Combo Rogue
+# Class: Rogue
+# Format: Wild
+#
+# 1x (0) Backstab
+# 1x (0) Shadowstep
+# 1x (1) Bladed Cultist
+# 1x (1) Cold Blood
+# 1x (1) Sinister Strike
+# 1x (2) Cavern Shinyfinder
+# 1x (2) Cheap Shot
+# 1x (2) Cheat Death
+# 1x (2) Defias Ringleader
+# 1x (2) Eviscerate
+# 1x (2) Jade Shuriken
+# 1x (2) Shiv
+# 1x (2) Sudden Betrayal
+# 1x (2) Undercity Valiant
+# 1x (3) Beneath the Grounds
+# 1x (3) Cutthroat Buccaneer
+# 1x (3) Headcrack
+# 1x (3) Plague Scientist
+# 1x (3) Shadow Strike
+# 1x (3) Shadowblade
+# 1x (3) SI:7 Agent
+# 1x (4) Elven Minstrel
+# 1x (4) Kobold Illusionist
+# 1x (4) Tinker's Sharpsword Oil
+# 1x (5) Assassin's Blade
+# 1x (5) Dark Iron Skulker
+# 1x (5) Rotten Applebaum
+# 1x (5) Rusty Recycler
+# 1x (6) Cursed Castaway
+# 1x (6) Reno Jackson
+# 
+AAEBAaIHHrQByQGMAu0CpQO9BMQFxgWIB90IrxDzEZsUzxXDFverArKtAvq9ApTQAuXRApriAtDjAtnjAtvjAvDmArHuAt/vAsXzApD2Asn7AgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

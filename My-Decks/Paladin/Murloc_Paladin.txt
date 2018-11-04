@@ -1,0 +1,38 @@
+### Murloc Paladin
+# Class: Paladin
+# Format: Wild
+#
+# 1x (1) Autodefense Matrix
+# 1x (1) Avenge
+# 1x (1) Competitive Spirit
+# 1x (1) Grimscale Chum
+# 1x (1) Grimscale Oracle
+# 1x (1) Murloc Tidecaller
+# 1x (1) Noble Sacrifice
+# 1x (1) Redemption
+# 1x (1) Repentance
+# 1x (1) Sacred Trial
+# 1x (2) Bilefin Tidehunter
+# 1x (2) Blowgill Sniper
+# 1x (2) Bluegill Warrior
+# 1x (2) Hydrologist
+# 1x (2) Murloc Tidehunter
+# 1x (2) Potion of Heroism
+# 1x (2) Puddlestomper
+# 1x (2) Rockpool Hunter
+# 1x (2) Sound the Bells!
+# 1x (3) Coldlight Oracle
+# 1x (3) Coldlight Seer
+# 1x (3) Primalfin Lookout
+# 1x (3) Steward of Darkshire
+# 1x (4) Blessing of Kings
+# 1x (4) Consecration
+# 1x (4) Murloc Knight
+# 1x (6) Corrupted Seer
+# 1x (6) Mysterious Challenger
+# 1x (6) Reno Jackson
+# 1x (10) Anyfin Can Happen
+# 
+AAEBAZ8FHowB6AHFA9sD3AP+A8gE4wWvB9AH+AeMDvAP2BTfFKYVwxbSFtMWiq0Cka0C/68CrbwC07wCs8ECncIChsQC7dIC+ewC2P4CAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

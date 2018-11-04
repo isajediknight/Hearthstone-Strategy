@@ -1,0 +1,38 @@
+### Distinct Warlock
+# Class: Warlock
+# Format: Wild
+#
+# 1x (1) Malchezaar's Imp
+# 1x (1) Mortal Coil
+# 1x (1) Possessed Villager
+# 1x (1) Power Overwhelming
+# 1x (1) Soulfire
+# 1x (1) Voidwalker
+# 1x (1) Witchwood Imp
+# 1x (2) Darkshire Librarian
+# 1x (2) Demonfire
+# 1x (2) Gnomeferatu
+# 1x (2) Succubus
+# 1x (2) Tiny Knight of Evil
+# 1x (3) Howlfiend
+# 1x (3) Silverware Golem
+# 1x (3) Unwilling Sacrifice
+# 1x (3) Void Terror
+# 1x (4) Dreadsteed
+# 1x (4) Fist of Jaraxxus
+# 1x (4) Hellfire
+# 1x (4) Hooked Reaver
+# 1x (4) Imp-losion
+# 1x (4) Lakkari Felhound
+# 1x (4) Shadowflame
+# 1x (5) Doomguard
+# 1x (5) Floating Watcher
+# 1x (5) Skull of the Man'ari
+# 1x (6) Cruel Dinomancer
+# 1x (6) Possessed Lackey
+# 1x (6) Reno Jackson
+# 1x (10) Deathwing
+# 
+AAEBAf0GHjCTAdAE9wTCBs4GtgfOB8QI9gjFCd0PlBDEFNkVhhbDFq+sAvauAtSzAry2Ao3HApHHApfLApLNAq7NAv3QAvzlAtvpAp7xAgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

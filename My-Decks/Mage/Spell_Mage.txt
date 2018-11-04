@@ -1,0 +1,38 @@
+### Spell Mage
+# Class: Mage
+# Format: Wild
+#
+# 1x (0) Shifting Scroll
+# 1x (1) Arcane Artificer
+# 1x (1) Arcane Missiles
+# 1x (1) Breath of Sindragosa
+# 1x (1) Ice Lance
+# 1x (1) Kabal Lackey
+# 1x (2) Mana Wyrm
+# 1x (2) Shatter
+# 1x (2) Snap Freeze
+# 1x (2) Sorcerer's Apprentice
+# 1x (3) Arcane Intellect
+# 1x (3) Coldwraith
+# 1x (3) Counterspell
+# 1x (3) Doomed Apprentice
+# 1x (3) Duplicate
+# 1x (3) Flamewaker
+# 1x (3) Forgotten Torch
+# 1x (3) Frost Nova
+# 1x (3) Kirin Tor Mage
+# 1x (3) Mirror Entity
+# 1x (3) Polymorph: Boar
+# 1x (3) Vaporize
+# 1x (4) Arcane Keysmith
+# 1x (4) Cone of Cold
+# 1x (4) Cosmic Anomaly
+# 1x (4) Demented Frostcaller
+# 1x (4) Echo of Medivh
+# 1x (4) Vex Crow
+# 1x (6) Reno Jackson
+# 1x (9) Frost Lich Jaina
+# 
+AAEBAf0EHnGsAcMBngKVA64DqwS0BMsE5gTsBYkOlQ/jEe4TuhbDFoesAoysAuu6AoTOAtTOApvTApzTAu7TApbkAr7sAsLzAs31ApX/AgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

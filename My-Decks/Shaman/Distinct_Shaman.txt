@@ -1,0 +1,38 @@
+### Distinct Shaman
+# Class: Shaman
+# Format: Wild
+#
+# 1x (0) Murloc Tinyfin
+# 1x (1) Deadscale Knight
+# 1x (1) Frost Shock
+# 1x (1) Grimscale Oracle
+# 1x (1) Hungry Crab
+# 1x (1) Murloc Raider
+# 1x (1) Murloc Tidecaller
+# 1x (1) Sir Finley Mrrgglton
+# 1x (2) Ancestral Spirit
+# 1x (2) Bilefin Tidehunter
+# 1x (2) Blowgill Sniper
+# 1x (2) Bluegill Warrior
+# 1x (2) Brrrloc
+# 1x (2) Devolve
+# 1x (2) Ghost Light Angler
+# 1x (2) Ice Fishing
+# 1x (2) Murloc Tidehunter
+# 1x (2) Puddlestomper
+# 1x (2) Rockpool Hunter
+# 1x (3) Coldlight Oracle
+# 1x (3) Coldlight Seer
+# 1x (3) Healing Rain
+# 1x (3) Lightning Storm
+# 1x (3) Primal Talismans
+# 1x (3) Primalfin Lookout
+# 1x (4) Call in the Finishers
+# 1x (4) Siltfin Spiritwalker
+# 1x (5) Bloodlust
+# 1x (5) Doomhammer
+# 1x (6) Reno Jackson
+# 
+AAEBAaoIHr8B4AKUA7sDxQPbA/4D9QTjBcsH0Af4B5MJ2A/wD8MWhBe3bIqtAuO7Aq28Ava9Ap3CAobEAqfNArbNAovOAtHmAvPnAvDzAgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
