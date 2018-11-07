@@ -1,0 +1,31 @@
+### Standard Priest
+# Class: Priest
+# Format: Standard
+# Year of the Raven
+#
+# 1x (0) Circle of Healing
+# 1x (0) Topsy Turvy
+# 2x (1) Mind Vision
+# 1x (1) Young Priestess
+# 2x (2) Crazed Alchemist
+# 2x (2) Dead Ringer
+# 2x (2) Shadow Ascendant
+# 1x (2) Volatile Elemental
+# 1x (3) Kaboom Bot
+# 2x (3) Thoughtsteal
+# 2x (3) Twilight's Call
+# 2x (3) Vryghoul
+# 1x (4) Mass Dispel
+# 1x (4) Tortollan Shellraiser
+# 2x (5) Corpse Raiser
+# 1x (5) Devour Mind
+# 1x (5) Holy Nova
+# 1x (5) Skelemancer
+# 1x (6) Coffin Crasher
+# 1x (7) Silver Vanguard
+# 1x (8) Marin the Fox
+# 1x (8) The Lich King
+# 
+AAECAa0GDskG0grWCuIM3MECtMQC2MoCxswCws4C5+ECpOcC3PUC0P4C/4ADCB6hBssIzswC2s0Cnc8CqeICof4CAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
