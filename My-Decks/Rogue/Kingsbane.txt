@@ -11,16 +11,17 @@
 # 2x (2) Leeching Poison
 # 2x (2) Sap
 # 2x (2) Shiv
-# 2x (3) Acolyte of Pain
+# 1x (3) Acolyte of Pain
 # 2x (3) Cutthroat Buccaneer
 # 2x (3) Fan of Knives
 # 1x (4) Cult Master
 # 2x (4) Elven Minstrel
 # 1x (4) Fal'dorei Strider
 # 2x (4) Gnomish Inventor
+# 1x (4) Runeforge Haunter
 # 2x (4) Witchwood Piper
 # 1x (5) Harrison Jones
 # 
-AAECAaIHBKsGkAfc0QK77wINtALtAssDzQO9BJsF+wypzQLl0QLQ4wLb4wKm8ALJ+wIA
+AAECAaIHBqsGkAf7DMPOAtzRArvvAgy0Au0CywPNA70EmwWpzQLl0QLQ4wLb4wKm8ALJ+wIA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
