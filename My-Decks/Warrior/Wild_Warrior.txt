@@ -1,38 +1,38 @@
-### Wild Warrior
+### Wild_Warrior
 # Class: Warrior
 # Format: Wild
 #
 # 1x (0) Inner Rage
-# 1x (1) Animated Berserker
 # 1x (1) Tentacle of N'Zoth
 # 1x (1) Whirlwind
 # 1x (2) Armorsmith
-# 1x (2) Battle Rage
 # 1x (2) Cruel Taskmaster
 # 1x (2) Execute
-# 1x (2) Rocket Boots
+# 1x (2) Mad Bomber
+# 1x (2) Revenge
 # 1x (2) Unstable Ghoul
 # 1x (2) Warpath
 # 1x (3) Acolyte of Pain
 # 1x (3) Bash
 # 1x (3) Blood Warriors
 # 1x (3) Frothing Berserker
-# 1x (3) Ironforge Rifleman
 # 1x (3) Ravaging Ghoul
 # 1x (4) Axe Flinger
 # 1x (4) Blood Razor
 # 1x (4) Death's Bite
 # 1x (4) Hozen Healer
 # 1x (4) Mortal Strike
+# 1x (5) Alley Armorsmith
 # 1x (5) Grim Patron
 # 1x (5) Gurubashi Berserker
 # 1x (5) Supercollider
+# 1x (6) Missile Launcher
 # 1x (6) Reno Jackson
 # 1x (6) Sea Reaver
 # 1x (6) Security Rover
 # 1x (8) Grommash Hellscream
 # 1x (10) Varian Wrynn
 # 
-AAEBAQceFp0C0gLTApAD1AT8BI4FgAaRBqQG+wyNDpAO5xH5EaMVqRXIFcMWgq0ChK0CwK8CmLsCzM0Cus4Cm/MCtfYC5PcCjvsCAAA=
+AAEBAQceFp0C0gLUBPwEjgX6BYAGkQakBvsMjQ6QDucR+BH5EaMVqRXIFcMWgq0ChK0CwK8CmLsC/rwCzM0Cm/MC5PcCjvsCqPsCAAA=
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
