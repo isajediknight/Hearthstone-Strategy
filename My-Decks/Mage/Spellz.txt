@@ -1,0 +1,25 @@
+### Spellz
+# Class: Mage
+# Format: Wild
+#
+# 2x (1) Breath of Sindragosa
+# 2x (1) Ice Lance
+# 1x (1) Mirror Image
+# 2x (2) Frostbolt
+# 2x (2) Ice Walker
+# 2x (2) Snap Freeze
+# 1x (2) Snowchugger
+# 2x (2) Sorcerer's Apprentice
+# 2x (3) Arcane Intellect
+# 1x (3) Coldwraith
+# 2x (3) Flamewaker
+# 2x (3) Frost Nova
+# 2x (4) Cone of Cold
+# 2x (4) Demented Frostcaller
+# 2x (4) Water Elemental
+# 2x (6) Blizzard
+# 1x (9) Frost Lich Jaina
+# 
+AAEBAf0EBLwIiA/UzgKb0wINrAGLA64DyQOrBMsE5gSWBeMRjKwC3M0C7tMCzfUCAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
