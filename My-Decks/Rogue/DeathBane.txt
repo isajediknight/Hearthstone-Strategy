@@ -1,0 +1,28 @@
+### DeathBane
+# Class: Rogue
+# Format: Wild
+#
+# 1x (0) Shadowstep
+# 2x (1) Deadly Poison
+# 1x (1) Kingsbane
+# 2x (2) Cavern Shinyfinder
+# 2x (2) Leeching Poison
+# 2x (2) Sap
+# 2x (3) Fan of Knives
+# 2x (3) Mimic Pod
+# 1x (4) Baron Rivendare
+# 2x (4) Polluted Hoarder
+# 2x (4) Southsea Squidface
+# 1x (4) Spiritsinger Umbra
+# 2x (4) Tinker's Sharpsword Oil
+# 2x (4) Witchwood Piper
+# 1x (5) Carnivorous Cube
+# 1x (5) Corpse Raiser
+# 1x (5) Feugen
+# 1x (5) Rotten Applebaum
+# 1x (5) Sludge Belcher
+# 1x (5) Stalagg
+# 
+AAEBAaIHCu0CgQ6EDoUO+w7JwgKdzwKL4QK77wLF8wIKywPNA5sFrxCprwKxsAL8wQKpzQLl0QKm8AIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
