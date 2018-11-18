@@ -2,37 +2,37 @@
 # Class: Mage
 # Format: Wild
 #
+# 1x (1) Arcane Missiles
+# 1x (1) Breath of Sindragosa
 # 1x (1) Mirror Image
-# 1x (2) Arcane Explosion
+# 1x (2) Astral Rift
 # 1x (2) Bloodmage Thalnos
+# 1x (2) Flamecannon
 # 1x (2) Frostbolt
 # 1x (2) Ice Walker
-# 1x (2) Kobold Geomancer
 # 1x (2) Raven Familiar
 # 1x (2) Shatter
-# 1x (2) Snowchugger
 # 1x (2) Sorcerer's Apprentice
-# 1x (2) Spellshifter
-# 1x (2) Tainted Zealot
 # 1x (3) Arcane Intellect
-# 1x (3) Cinderstorm
-# 1x (3) Counterspell
-# 1x (3) Dalaran Mage
 # 1x (3) Duplicate
-# 1x (3) Explosive Runes
 # 1x (3) Flamewaker
-# 1x (3) Frost Nova
-# 1x (3) Kirin Tor Mage
+# 1x (3) Forgotten Torch
+# 1x (3) Frozen Clone
+# 1x (3) Mana Bind
 # 1x (3) Mirror Entity
-# 1x (4) Ancient Mage
-# 1x (4) Frigid Snobold
-# 1x (4) Ogre Magi
+# 1x (3) Simulacrum
+# 1x (3) Twilight Flamecaller
+# 1x (4) Arcane Keysmith
+# 1x (4) Cosmic Anomaly
+# 1x (4) Dalaran Aspirant
+# 1x (4) Echo of Medivh
+# 1x (4) Fireball
 # 1x (5) Azure Drake
-# 1x (6) Archmage
 # 1x (6) Blizzard
 # 1x (6) Reno Jackson
+# 1x (7) Flamestrike
 # 1x (9) Frost Lich Jaina
 # 
-AAEBAf0EHnGvAcMBvwPJA40EqwTLBOYElgWgBewF7QW5BpMH4we8CIkOiA/jEeQTwxaHrALczQKP0wKb0wLV4QKX6AL77AKS7wIAAA==
+AAEBAf0EHsMBuwLJA6sEtATmBJYF7QW5BuwHvAiJDocPlQ/jEfUTuhbDFoesAomsAsbBAtzNAoLOArnRApvTAu7TAtXhAr7sAur2ApX/AgAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
