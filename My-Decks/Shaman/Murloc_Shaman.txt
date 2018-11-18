@@ -1,30 +1,38 @@
-### Murloc Shaman
+### Murloc_Shaman
 # Class: Shaman
 # Format: Wild
 #
-# 2x (1) Grimscale Oracle
-# 2x (1) Murloc Tidecaller
+# 1x (1) Grimscale Oracle
+# 1x (1) Murloc Tidecaller
 # 1x (2) Bilefin Tidehunter
-# 2x (2) Blowgill Sniper
-# 2x (2) Bluegill Warrior
-# 2x (2) Brrrloc
+# 1x (2) Blowgill Sniper
+# 1x (2) Bluegill Warrior
+# 1x (2) Brrrloc
 # 1x (2) Devolve
-# 2x (2) Ghost Light Angler
+# 1x (2) Ghost Light Angler
 # 1x (2) Ice Fishing
-# 2x (2) Murloc Tidehunter
+# 1x (2) Murloc Tidehunter
+# 1x (2) Primalfin Totem
+# 1x (2) Puddlestomper
 # 1x (2) Rockpool Hunter
 # 1x (3) Coldlight Oracle
 # 1x (3) Coldlight Seer
 # 1x (3) Healing Rain
 # 1x (3) Lightning Storm
 # 1x (3) Primal Talismans
-# 2x (3) Primalfin Lookout
+# 1x (3) Primalfin Lookout
+# 1x (4) Avalanche
 # 1x (4) Call in the Finishers
 # 1x (4) Hex
 # 1x (4) Siltfin Spiritwalker
 # 1x (5) Bloodlust
+# 1x (5) Corrosive Sludge
 # 1x (5) Doomhammer
+# 1x (6) Corrupted Seer
+# 1x (6) Reno Jackson
+# 1x (7) Sated Threshadon
+# 1x (8) The Runespear
 # 
-AAEBAaoIDuACxQP1BP4F+AeTCdgPiq0C47sC9r0CncICi84C0eYC8+cCCNsD/gPjBdAHrbwChsQCts0C8PMCAA==
+AAEBAfWfAx7gAsUD2wP+A/UE4wX+BdAH+AeTCdgP8A/DFoqtApGtAuO7Aq28Ava9ApHBArLBAp3CAobEArbNAvvNAovOAs3TAtHmAvPnAuHpAvDzAgAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
