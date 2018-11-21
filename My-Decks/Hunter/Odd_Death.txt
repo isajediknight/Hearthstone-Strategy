@@ -1,0 +1,27 @@
+### Odd_Death
+# Class: Hunter
+# Format: Wild
+#
+# 2x (1) Goblin Bomb
+# 2x (1) Leper Gnome
+# 2x (1) Play Dead
+# 2x (1) Raptor Hatchling
+# 2x (3) Blackwald Pixie
+# 2x (3) Desert Camel
+# 2x (3) Fencing Coach
+# 1x (3) Forlorn Stalker
+# 1x (3) Metaltooth Leaper
+# 2x (3) Raid Leader
+# 1x (3) Spider Bomb
+# 2x (3) Terrorscale Stalker
+# 1x (5) Carnivorous Cube
+# 2x (5) Clockwork Automaton
+# 2x (5) Corpse Widow
+# 1x (5) Necromechanic
+# 1x (7) Abominable Bowman
+# 1x (9) Baku the Mooneater
+# 1x (9) King Krush
+# 
+AAEBAR8I+AjgD9uvAu3RAovhAvD1Ap74Arn4AguSBfkKlRTMFtjCAo3DApzNAsbOAuXvAs/yAt31AgA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
