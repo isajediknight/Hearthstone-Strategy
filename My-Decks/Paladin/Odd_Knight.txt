@@ -7,7 +7,7 @@
 # 1x (1) Competitive Spirit
 # 2x (1) Lost in the Jungle
 # 2x (3) Boisterous Bard
-# 2x (3) Divine Favor
+# 2x (3) Ironbeak Owl
 # 1x (3) Muster for Battle
 # 2x (3) Raid Leader
 # 1x (3) Shrieking Shroom
@@ -22,6 +22,6 @@
 # 1x (9) Baku the Mooneater
 # 1x (9) Uther of the Ebon Blade
 # 
-AAEBAZ8FCOwP7Q/YFLuvAo7TAqboAp74Atj+AgunBfEF3Qr5CuIRwRPTE/+vAoPHArjHAoPUAgA=
+AAEBAZ8FCOwP7Q/YFLuvAo7TAqboAp74Atj+AguiAvEF3Qr5CuIRwRPTE/+vAoPHArjHAoPUAgA=
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
