@@ -15,12 +15,12 @@
 # 1x (3) Shadow Strike
 # 2x (4) Gnomish Inventor
 # 2x (4) Naga Corsair
-# 2x (4) Runeforge Haunter
-# 1x (4) Southsea Squidface
+# 1x (4) Runeforge Haunter
+# 2x (4) Spellbreaker
 # 2x (4) Tinker's Sharpsword Oil
 # 2x (4) Witchwood Piper
 # 1x (6) Vanish
 # 
-AAEBAaIHBsQBgBKyrQKprwLQ4wK77wIMtALtAssDzQO9BK8Qub8C/MECqc0Cw84C5dECpvACAA==
+AAEBAaIHBsQBgBKyrQLDzgLQ4wK77wIMtALtAssDzQO9BPIFrxC5vwL8wQKpzQLl0QKm8AIA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
