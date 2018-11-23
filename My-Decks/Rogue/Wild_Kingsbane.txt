@@ -2,25 +2,36 @@
 # Class: Rogue
 # Format: Wild
 #
-# 2x (0) Shadowstep
-# 2x (1) Deadly Poison
+# 1x (0) Shadowstep
+# 1x (1) Deadly Poison
 # 1x (1) Kingsbane
-# 2x (2) Cavern Shinyfinder
-# 1x (2) Cheat Death
-# 1x (2) Gang Up
-# 2x (2) Leeching Poison
-# 2x (2) Sap
-# 2x (2) Shiv
-# 2x (3) Mimic Pod
+# 1x (2) Cavern Shinyfinder
+# 1x (2) Leeching Poison
+# 1x (2) Sap
+# 1x (2) Shiv
+# 1x (2) Sudden Betrayal
+# 1x (3) Beneath the Grounds
+# 1x (3) Cutthroat Buccaneer
+# 1x (3) Fan of Knives
+# 1x (3) Headcrack
+# 1x (3) Lone Champion
+# 1x (3) Mimic Pod
+# 1x (3) Plague Scientist
 # 1x (3) Shadow Strike
-# 2x (4) Gnomish Inventor
-# 2x (4) Naga Corsair
+# 1x (4) Naga Corsair
+# 1x (4) Phantom Freebooter
 # 1x (4) Runeforge Haunter
-# 2x (4) Spellbreaker
+# 1x (4) Southsea Squidface
+# 1x (4) Spellbreaker
 # 2x (4) Tinker's Sharpsword Oil
-# 2x (4) Witchwood Piper
+# 1x (4) Witchwood Piper
+# 1x (5) Assassinate
+# 1x (5) Rotten Applebaum
+# 1x (5) Rusty Recycler
+# 1x (6) Reno Jackson
 # 1x (6) Vanish
+# 1x (7) Giggling Inventor
 # 
-AAEBAaIHBsQBgBKyrQLDzgLQ4wK77wIMtALtAssDzQO9BPIFrxC5vwL8wQKpzQLl0QKm8AIA
+AAEBAaIHHMQB2QLtAssDzQO9BJsFxAXyBZsUwxayrQKprwK5vwL8wQLXygKpzQLDzgKU0ALl0QLR0wLZ4wK77wKm8ALF8wKQ9gLi+ALJ+wIBrxAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
