@@ -1,0 +1,31 @@
+### Odd_Warrior
+# Class: Warrior
+# Format: Wild
+#
+# 1x (1) Fire Plume's Heart
+# 1x (1) Shield Slam
+# 2x (1) Wax Elemental
+# 2x (1) Whirlwind
+# 2x (3) Acolyte of Pain
+# 1x (3) Bash
+# 2x (3) Blackwald Pixie
+# 1x (3) Blood Warriors
+# 1x (3) Frothing Berserker
+# 1x (3) Orgrimmar Aspirant
+# 1x (3) Phantom Militia
+# 1x (3) Protect the King!
+# 1x (3) Ravaging Ghoul
+# 1x (3) Shield Block
+# 1x (3) Stonehill Defender
+# 2x (5) Direhorn Hatchling
+# 2x (5) Grim Patron
+# 2x (5) Gurubashi Berserker
+# 1x (5) Kvaldir Raider
+# 1x (5) Siege Engine
+# 1x (5) Supercollider
+# 1x (7) Tar Lord
+# 1x (9) Baku the Mooneater
+# 
+AAEBAQcQogSOBf8HhhDPE5cVqRWCrQLArwLHtAKbwgLTwwKZxwKq7AKe+AKO+wIH/ASABvsM5xGixwLH0wLl7wIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
