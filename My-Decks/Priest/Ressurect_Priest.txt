@@ -1,0 +1,28 @@
+### Ressurect_Priest
+# Class: Priest
+# Format: Wild
+#
+# 2x (0) Silence
+# 1x (0) Topsy Turvy
+# 2x (2) Dead Ringer
+# 2x (2) Resurrect
+# 1x (2) Shadow Visions
+# 1x (2) Shadow Word: Pain
+# 2x (3) Dark Cultist
+# 2x (3) Extra Arms
+# 1x (3) Shadow Word: Death
+# 2x (3) Twilight's Call
+# 1x (4) Baron Rivendare
+# 2x (4) Piloted Reaper
+# 2x (4) Polluted Hoarder
+# 1x (4) Spiritsinger Umbra
+# 1x (5) Carnivorous Cube
+# 1x (5) Feugen
+# 1x (5) Stalagg
+# 2x (6) Moat Lurker
+# 2x (7) Lesser Diamond Spellstone
+# 1x (10) N'Zoth, the Corruptor
+# 
+AAEBAa0GCtMK1wqEDoUO+w7grALRwQLJwgKL4QLQ/gIKpQmPDvoRsbACqbQCqeIC4+kC5fcC3/gCof4CAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
