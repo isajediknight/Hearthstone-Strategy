@@ -4,26 +4,28 @@
 #
 # 2x (1) Acherus Veteran
 # 2x (1) Argent Squire
-# 2x (1) Blessing of Might
+# 1x (1) Blessing of Might
 # 2x (1) Fire Fly
 # 2x (1) Lost in the Jungle
 # 2x (1) Righteous Protector
+# 1x (3) Boisterous Bard
+# 1x (3) Ironbeak Owl
 # 1x (3) Muster for Battle
 # 2x (3) Raid Leader
 # 1x (3) Steward of Darkshire
 # 1x (3) Stonehill Defender
 # 1x (3) Unidentified Maul
 # 1x (3) Warhorse Trainer
-# 2x (5) Fungalmancer
+# 1x (5) Fungalmancer
+# 1x (5) Harrison Jones
 # 1x (5) Quartermaster
 # 1x (5) Solemn Vigil
 # 1x (7) Corridor Creeper
-# 1x (7) Guardian of Kings
 # 1x (7) Stormwind Champion
 # 2x (7) Vinecleaver
 # 1x (9) Baku the Mooneater
 # 1x (9) Uther of the Ebon Blade
 # 
-AAEBAZ8FDPEFrAjsD+0P4hHTE/+vApvCAo7TAvvTAtblAp74AglG9QX5CuvCAoPHArjHAuPLApXOAtHhAgA=
+AAEBAZ8FEEaiAvEFkAfsD+0P4hHTE/+vApvCAo7TAvvTAoPUAtHhAtblAp74Agf1BfkK68ICg8cCuMcC48sClc4CAA==
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
