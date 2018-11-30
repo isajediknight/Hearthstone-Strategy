@@ -1,0 +1,38 @@
+### Classy
+# Class: Rogue
+# Format: Wild
+#
+# 1x (0) Backstab
+# 1x (0) Shadowstep
+# 1x (1) Cold Blood
+# 1x (1) Deadly Poison
+# 1x (1) Hallucination
+# 1x (1) Pilfer
+# 1x (1) Sinister Strike
+# 1x (2) Betrayal
+# 1x (2) Cavern Shinyfinder
+# 1x (2) Pick Pocket
+# 1x (2) Sap
+# 1x (2) Shiv
+# 1x (2) Sudden Betrayal
+# 1x (3) Blink Fox
+# 1x (3) Burgle
+# 1x (3) Fan of Knives
+# 1x (3) Headcrack
+# 1x (3) Mimic Pod
+# 1x (4) Academic Espionage
+# 1x (4) Elven Minstrel
+# 1x (4) Gnomish Inventor
+# 1x (4) Polluted Hoarder
+# 1x (4) Spectral Cutlass
+# 1x (4) Tinker's Sharpsword Oil
+# 1x (4) Witchwood Piper
+# 1x (5) Dark Iron Skulker
+# 1x (5) Loatheb
+# 1x (6) Reno Jackson
+# 1x (6) Vanish
+# 1x (7) Sprint
+# 
+AAEBAaIHHrQBxAGMApoCtALtAssDzQO9BPYEmwXEBcYF+g6vEPMR0hXDFrGwAvzBApvIAuXRAtnjAtvjAqbwAurzArf1Aqj3Asf4AqiYAwAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
