@@ -1,0 +1,29 @@
+### Odd_Knight_Standard
+# Class: Paladin
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Acherus Veteran
+# 2x (1) Argent Squire
+# 1x (1) Autodefense Matrix
+# 2x (1) Fire Fly
+# 2x (1) Glow-Tron
+# 2x (1) Lost in the Jungle
+# 2x (1) Righteous Protector
+# 2x (3) Boisterous Bard
+# 1x (3) Flesheating Ghoul
+# 2x (3) Ironbeak Owl
+# 2x (3) Raid Leader
+# 1x (3) Stonehill Defender
+# 1x (3) Unidentified Maul
+# 1x (5) Fungalmancer
+# 1x (5) Harrison Jones
+# 1x (7) Corridor Creeper
+# 1x (7) Stormwind Champion
+# 2x (7) Vinecleaver
+# 1x (9) Baku the Mooneater
+# 1x (9) Uther of the Ebon Blade
+# 
+AAECAZ8FCo0D8QWQB5vCAo7TAvvTAtHhAtblAp74Atj+AgqiAvUF+QrrwgKDxwK4xwLjywKVzgKD1ALW/gIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
