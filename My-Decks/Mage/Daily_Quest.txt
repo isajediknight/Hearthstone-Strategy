@@ -1,0 +1,38 @@
+### Daily_quest
+# Class Mage
+# Format Wild
+#
+# 1x (1) Kabal Lackey
+# 1x (1) Mirror Image
+# 1x (1) Wax Elemental
+# 1x (2) Arcanologist
+# 1x (2) Stubborn Gastropod
+# 1x (3) Counterspell
+# 1x (3) Duplicate
+# 1x (3) Explosive Runes
+# 1x (3) Frozen Clone
+# 1x (3) Ice Barrier
+# 1x (3) Kirin Tor Mage
+# 1x (3) Mana Bind
+# 1x (3) Stonehill Defender
+# 1x (3) Tar Creeper
+# 1x (3) Vaporize
+# 1x (4) Arcane Keysmith
+# 1x (4) Ethereal Arcanist
+# 1x (6) Reno Jackson
+# 1x (8) Chromaggus
+# 1x (8) Deranged Doctor
+# 1x (8) Force-Tank MAX
+# 1x (8) Glacial Mysteries
+# 1x (8) Kel'Thuzad
+# 1x (8) The Lich King
+# 1x (9) Arch-Thief Rafaam
+# 1x (9) Dragoncaller Alanna
+# 1x (9) Frost Lich Jaina
+# 1x (9) Majordomo Executus
+# 1x (9) Nefarian
+# 1x (10) N'Zoth, the Corruptor
+# 
+AAEBAf0EHnGeAu0E7AW8CMkNgg6JDv8P1RHoEekRwxaUF+CsAuu6AsHBAsbBApvCAubCAsrDAoLOAojOAsLOAoTApvTAsfTAqPrAr7sAsDsAgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
