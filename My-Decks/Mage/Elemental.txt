@@ -1,0 +1,28 @@
+### Elemental
+# Class: Mage
+# Format: Wild
+#
+# 2x (1) Arcane Missiles
+# 1x (1) Kabal Lackey
+# 2x (1) Mirror Image
+# 2x (3) Arcane Intellect
+# 2x (3) Black Cat
+# 2x (3) Cinderstorm
+# 1x (3) Counterspell
+# 2x (3) Duplicate
+# 2x (3) Flamewaker
+# 1x (3) Frozen Clone
+# 2x (3) Kirin Tor Mage
+# 1x (3) Mana Bind
+# 1x (3) Mirror Entity
+# 1x (3) Simulacrum
+# 1x (3) Vaporize
+# 1x (3) Witch's Cauldron
+# 2x (5) Ethereal Conjurer
+# 2x (7) Flamestrike
+# 1x (9) Baku the Mooneater
+# 1x (9) Frost Lich Jaina
+# 
+AAEBAf0ECnHDAZ4C67oCxsECgs4CudECm9MC7vcCnvgCCqsEtATsBewHvAiJDuMRuxb77AK9+gIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
