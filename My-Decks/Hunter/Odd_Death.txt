@@ -3,26 +3,27 @@
 # Format: Standard
 # Year of the Raven
 #
-# 2x (1) Helpless Hatchling
 # 2x (1) Play Dead
 # 2x (1) Raptor Hatchling
 # 2x (1) Secret Plan
 # 1x (1) Stampede
 # 1x (1) The Beast Within
-# 2x (1) Timber Wolf
+# 1x (1) Timber Wolf
 # 2x (3) Deadly Shot
+# 2x (3) Ironbeak Owl
 # 2x (3) Kaboom Bot
 # 1x (3) Spider Bomb
 # 2x (3) Terrorscale Stalker
+# 2x (3) Untamed Beastmaster
 # 2x (5) Baited Arrow
 # 1x (5) Carnivorous Cube
-# 2x (5) Corpse Raiser
 # 1x (5) Faceless Manipulator
 # 1x (5) Halazzi, the Lynx
 # 1x (5) Harrison Jones
+# 1x (5) Rotten Applebaum
 # 2x (7) Abominable Bowman
 # 1x (9) Baku the Mooneater
 # 
-AAECAR8IkwSQB5DDAovhAp74Arn4AtSLA+OLAwveBMUI2MICjcMCnM0Cnc8C7dECh/sC/4ADyYkDoooDAA==
+AAECAR8KkwTeBJAHkMMCi+ECxfMCnvgCufgC1IsD44sDCqICxQjYwgKNwwKczQLt0QKH+wL/gAOiigO7igMA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
