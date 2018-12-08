@@ -1,0 +1,27 @@
+### Kingsbane_Pirate
+# Class: Rogue
+# Format: Wild
+#
+# 1x (0) Preparation
+# 1x (0) Shadowstep
+# 2x (1) Deadly Poison
+# 1x (1) Kingsbane
+# 1x (2) Betrayal
+# 2x (2) Cavern Shinyfinder
+# 2x (2) Leeching Poison
+# 2x (2) Sap
+# 1x (2) Shiv
+# 2x (3) Cutthroat Buccaneer
+# 2x (3) Fan of Knives
+# 2x (3) Mimic Pod
+# 2x (3) Raiding Party
+# 1x (3) Shadow Strike
+# 1x (4) Blade Flurry
+# 2x (4) Naga Corsair
+# 2x (4) Tinker's Sharpsword Oil
+# 2x (4) Witchwood Piper
+# 1x (6) Vanish
+# 
+AAEBAaIHCMQBmgLtAr0EqAiGCbKtArvvAgvLA80DmwWvELm/AvzBAqnNAuXRAqbwAsn7AtWMAwA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
