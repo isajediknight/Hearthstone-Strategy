@@ -1,0 +1,27 @@
+### Deathrattle
+# Class: Rogue
+# Format: Standard
+# Year of the Raven
+#
+# 1x (2) Bloodmage Thalnos
+# 2x (2) Cheat Death
+# 2x (2) Roll the Bones
+# 2x (2) Sap
+# 2x (2) Shiv
+# 2x (3) Fan of Knives
+# 1x (3) Headcrack
+# 2x (3) Mimic Pod
+# 2x (3) Necrium Blade
+# 2x (3) Shallow Gravedigger
+# 1x (3) Sonya Shadowdancer
+# 2x (4) Blightnozzle Crawler
+# 2x (4) Kobold Illusionist
+# 1x (4) Spiritsinger Umbra
+# 1x (5) Carnivorous Cube
+# 2x (5) Lesser Onyx Spellstone
+# 1x (5) Necrium Vial
+# 2x (5) Rotten Applebaum
+# 
+AAECAaIHBsQF7QXJwgKL4QLP4QLs/AIMzQO9BJsF/MECwMwCoc4C0OMC8OYC2OkCxfMC3voC0YEDAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
