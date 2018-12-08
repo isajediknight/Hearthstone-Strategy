@@ -1,26 +1,28 @@
 ### Odd_Death
 # Class: Hunter
-# Format: Wild
+# Format: Standard
+# Year of the Raven
 #
-# 2x (1) Goblin Bomb
-# 2x (1) Leper Gnome
+# 2x (1) Helpless Hatchling
 # 2x (1) Play Dead
-# 1x (1) Undertaker
-# 2x (3) Backstreet Leper
-# 2x (3) Blackwald Pixie
+# 2x (1) Raptor Hatchling
+# 2x (1) Secret Plan
+# 1x (1) Stampede
+# 1x (1) The Beast Within
+# 2x (1) Timber Wolf
 # 2x (3) Deadly Shot
-# 2x (3) Desert Camel
-# 2x (3) Fencing Coach
+# 2x (3) Kaboom Bot
+# 1x (3) Spider Bomb
 # 2x (3) Terrorscale Stalker
+# 2x (5) Baited Arrow
 # 1x (5) Carnivorous Cube
-# 2x (5) Clockwork Automaton
-# 2x (5) Corpse Widow
-# 1x (5) Necromechanic
-# 2x (5) Rotten Applebaum
-# 1x (5) Tol'vir Warden
+# 2x (5) Corpse Raiser
+# 1x (5) Faceless Manipulator
+# 1x (5) Halazzi, the Lynx
+# 1x (5) Harrison Jones
+# 2x (7) Abominable Bowman
 # 1x (9) Baku the Mooneater
-# 1x (9) King Krush
 # 
-AAEBAR8G+Aj2DorDAovhAvD1Ap74AgySBcUIlRTMFqy8AtjCApzNAsbOAuXvAs/yAsXzAt31AgA=
+AAECAR8IkwSQB5DDAovhAp74Arn4AtSLA+OLAwveBMUI2MICjcMCnM0Cnc8C7dECh/sC/4ADyYkDoooDAA==
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
