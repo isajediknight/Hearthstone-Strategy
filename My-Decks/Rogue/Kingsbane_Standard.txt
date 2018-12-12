@@ -1,27 +1,26 @@
-### Kingsbane_Standard
+### KBv5
 # Class: Rogue
 # Format: Standard
 # Year of the Raven
 #
+# 2x (0) Shadowstep
 # 2x (1) Deadly Poison
 # 1x (1) Kingsbane
-# 1x (2) Betrayal
 # 2x (2) Cavern Shinyfinder
-# 2x (2) Cheat Death
+# 1x (2) Cheat Death
+# 2x (2) Lab Recruiter
 # 2x (2) Leeching Poison
+# 2x (2) Novice Engineer
 # 2x (2) Sap
+# 2x (2) Shiv
 # 2x (3) Cutthroat Buccaneer
+# 2x (3) Fan of Knives
 # 2x (3) Mimic Pod
 # 2x (3) Raiding Party
 # 1x (4) Blade Flurry
 # 1x (4) Dread Corsair
-# 2x (4) Phantom Freebooter
-# 2x (4) Spirit of the Shark
-# 2x (4) Witchwood Piper
-# 1x (6) Cannon Barrage
-# 2x (6) Cursed Castaway
-# 1x (6) Vanish
+# 2x (4) Elven Minstrel
 # 
-AAECAaIHBsQBmgLuBqgIu+8C24wDDMsDzQP8wQLXygKpzQLl0QLQ4wLf7wKm8ALJ+wK0hgPVjAMA
+AAECAaIHBO4GqAjQ4wK77wINnALtAssDzQO9BJsF/MECqc0C5dEC2+MC4PoCyfsC1YwDAA==
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
