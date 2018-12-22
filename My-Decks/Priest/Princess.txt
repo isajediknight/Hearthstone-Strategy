@@ -1,0 +1,25 @@
+### Princess
+# Class: Priest
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Crystalline Oracle
+# 2x (1) Mind Vision
+# 2x (1) Psionic Probe
+# 2x (2) Cloning Device
+# 2x (2) Mind Blast
+# 2x (2) Radiant Elemental
+# 2x (2) Seance
+# 1x (2) Shadow Visions
+# 2x (2) Shadow Word: Pain
+# 2x (3) Shadow Word: Death
+# 2x (3) Thoughtsteal
+# 2x (4) Eternal Servitude
+# 2x (5) Devour Mind
+# 2x (5) Holy Water
+# 1x (8) Princess Talanji
+# 2x (12) Grave Horror
+# 
+AAECAa0GAtHBAqKHAw4eoQTLCNMK1wrVwQLYwQLGzALlzAKb5wLm7AL3/ALmiAPrigMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
