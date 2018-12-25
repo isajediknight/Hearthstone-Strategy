@@ -1,0 +1,25 @@
+### Failock
+# Class: Warlock
+# Format: Wild
+#
+# 2x (1) Malchezaar's Imp
+# 2x (1) Mortal Coil
+# 2x (1) Shriek
+# 2x (1) Soul Infusion
+# 2x (1) Soulfire
+# 2x (2) Darkshire Librarian
+# 2x (2) Tiny Knight of Evil
+# 2x (3) Reckless Diretroll
+# 2x (3) Silverware Golem
+# 2x (4) Fist of Jaraxxus
+# 1x (4) High Priestess Jeklik
+# 1x (4) Shadowflame
+# 2x (4) Spellbreaker
+# 1x (5) Harrison Jones
+# 2x (6) Cruel Dinomancer
+# 2x (6) Soulwarden
+# 1x (10) Deathwing
+# 
+AAEBAf0GBJMBwgaQB/CGAw3yBc4HxAjEFNkVr6wC1LMCvLYCjccC0/gC0oYD1oYDr40DAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
