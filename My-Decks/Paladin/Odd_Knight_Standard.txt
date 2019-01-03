@@ -1,27 +1,26 @@
-### Odd_Knight_Rhastakan
+### Odd_Knight
 # Class: Paladin
 # Format: Standard
 # Year of the Raven
 #
-# 1x (1) Acherus Veteran
+# 2x (1) Acherus Veteran
 # 2x (1) Argent Squire
+# 2x (1) Blessing of Might
 # 2x (1) Fire Fly
-# 2x (1) Glow-Tron
 # 2x (1) Lost in the Jungle
+# 1x (1) Mecharoo
 # 2x (1) Righteous Protector
-# 2x (3) Boisterous Bard
-# 2x (3) Flesheating Ghoul
+# 2x (1) Secretkeeper
 # 2x (3) Raid Leader
-# 1x (3) Shrieking Shroom
 # 2x (3) Stonehill Defender
-# 1x (3) Unidentified Maul
+# 2x (3) Unidentified Maul
+# 2x (5) Frostwolf Warlord
 # 2x (5) Fungalmancer
 # 1x (7) Corridor Creeper
-# 2x (7) Stormwind Champion
+# 1x (7) Stormwind Champion
 # 2x (7) Vinecleaver
 # 1x (9) Baku the Mooneater
-# 1x (9) Uther of the Ebon Blade
 # 
-AAECAZ8FBpXOAo7TAvvTAtblAqboAp74AgyNA/EF9QX5CpvCAuvCAoPHArjHAuPLAoPUAtHhAtb+AgA=
+AAECAZ8FBPEF+9MCnvgC9v0CDUaeAfAD9QX5CpvCAuvCAoPHArjHAuPLApXOAtHhAtblAgA=
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
