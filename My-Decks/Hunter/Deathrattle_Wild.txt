@@ -1,0 +1,38 @@
+### Deathrattle_Wild
+# Class: Hunter
+# Format: Wild
+#
+# 1x (1) Candleshot
+# 1x (1) Helpless Hatchling
+# 1x (1) Hunter's Mark
+# 1x (1) Leper Gnome
+# 1x (1) Play Dead
+# 1x (1) Raptor Hatchling
+# 1x (1) Secretkeeper
+# 1x (1) Stampede
+# 1x (1) The Beast Within
+# 1x (1) Undertaker
+# 1x (1) Webspinner
+# 1x (2) Cybertech Chip
+# 1x (2) Explorer's Hat
+# 1x (2) Fireworks Tech
+# 1x (2) Revenge of the Wild
+# 1x (3) Deadly Shot
+# 1x (3) Infest
+# 1x (3) Ironbeak Owl
+# 1x (3) Spawn of N'Zoth
+# 1x (3) Spider Bomb
+# 1x (3) Terrorscale Stalker
+# 1x (4) Spiritsinger Umbra
+# 1x (5) Baited Arrow
+# 1x (5) Corpse Widow
+# 1x (5) Necromechanic
+# 1x (5) Rotten Applebaum
+# 1x (6) Reno Jackson
+# 1x (7) Abominable Bowman
+# 1x (8) Da Undatakah
+# 1x (8) Deranged Doctor
+# 
+AAEBAR8ejQGeAaICkgXFCMQO9g7DFrkXuasCja8CycIC2MICjcMCkMMCnM0Cxs4C7dEC4eMCwOwCxfMC7/UC8PUCufgChP0CyYkDi4oDoooD1IsD148DAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
