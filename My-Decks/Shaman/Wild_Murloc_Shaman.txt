@@ -1,4 +1,4 @@
-### Murloc_Shaman
+### Wild_Murloc_Shaman
 # Class: Shaman
 # Format: Wild
 #
