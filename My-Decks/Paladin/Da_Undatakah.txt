@@ -3,26 +3,27 @@
 # Format: Standard
 # Year of the Raven
 #
-# 2x (1) Blessing of Might
-# 2x (1) Blessing of Wisdom
+# 2x (1) Autodefense Matrix
+# 2x (1) Eye for an Eye
+# 2x (1) Glow-Tron
+# 2x (1) Noble Sacrifice
+# 2x (1) Repentance
+# 2x (2) Hydrologist
 # 1x (2) Immortal Prelate
 # 2x (2) Potion of Heroism
-# 2x (3) Acolyte of Pain
-# 1x (3) Banana Buffoon
-# 2x (3) Fungal Enchanter
-# 1x (3) Happy Ghoul
+# 2x (3) Blackwald Pixie
+# 1x (3) Divine Favor
 # 2x (3) Stonehill Defender
-# 2x (4) Blessing of Kings
+# 1x (3) Time Out!
+# 1x (4) Bellringer Sentry
 # 2x (4) Consecration
-# 1x (4) Gnomish Inventor
-# 2x (4) Hammer of Wrath
-# 2x (4) Spellbreaker
-# 2x (4) Witchwood Piper
-# 1x (5) Faceless Manipulator
-# 1x (5) Rotten Applebaum
+# 1x (4) Hammer of Wrath
+# 1x (5) Rusty Recycler
+# 1x (5) Zilliax
 # 1x (7) Silver Vanguard
 # 1x (8) Da Undatakah
+# 1x (9) Uther of the Ebon Blade
 # 
-AAECAZ8FCLQCkwSfzgLn4QLF8wLmhgPSiQOLigMLRvoB3APyBa8H3Qr7DJvCAu3SAofoAqbwAgA=
+AAECAZ8FCvoBpwWO0wLn4QKt8gKQ9gKggAPPhgPmhgOLigMK6AHOA9wDyASzwQKbwgLt0gLl7wLW/gLY/gIA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
