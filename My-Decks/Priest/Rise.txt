@@ -3,28 +3,25 @@
 # Format: Standard
 # Year of the Raven
 #
-# 2x (1) Spirit of the Dead
-# 1x (2) Bloodmage Thalnos
+# 2x (0) Silence
+# 2x (1) Holy Smite
+# 2x (2) Mind Blast
+# 2x (2) Seance
 # 1x (2) Shadow Visions
-# 1x (2) Shadow Word: Pain
-# 2x (3) Extra Arms
-# 1x (3) Shadow Word: Death
-# 2x (3) Shallow Gravedigger
+# 2x (2) Shadow Word: Pain
+# 1x (3) Mirage Caller
+# 2x (3) Shadow Word: Death
 # 2x (3) Twilight's Call
-# 1x (4) Eternal Servitude
-# 1x (4) Mass Dispel
+# 2x (4) Eternal Servitude
+# 2x (4) Mass Dispel
 # 1x (4) Spiritsinger Umbra
 # 2x (4) Tortollan Shellraiser
-# 1x (5) Carnivorous Cube
 # 2x (5) Holy Nova
-# 1x (5) Holy Water
-# 2x (5) Mass Hysteria
-# 2x (6) Coffin Crasher
+# 1x (5) Reckless Experimenter
 # 2x (7) Lesser Diamond Spellstone
 # 1x (8) Da Undatakah
-# 1x (8) Princess Talanji
 # 1x (9) Obsidian Statue
 # 
-AAECAa0GDO0F0wrWCtcK0cECycIC5cwC5swCi+EC5uwCoocDi4oDCckG3MECoc4CqeIC4+kC3PUC5fcCl4cDsIkDAA==
+AAECAa0GBsPBAtHBAsnCAubMAoiCA4uKAwyXAqEEyQalCdMK1grXCtzBAuXMAqniAuPpAuaIAwA=
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
