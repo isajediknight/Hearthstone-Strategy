@@ -1,0 +1,29 @@
+### Odd_Dragon_Armor
+# Class: Warrior
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Devastate
+# 1x (1) Iron Hide
+# 2x (1) Molten Blade
+# 1x (1) Shield Slam
+# 2x (1) Swamp Dragon Egg
+# 1x (1) Upgrade!
+# 2x (3) Blackwald Pixie
+# 2x (3) Hench-Clan Thug
+# 2x (3) Ironbeak Owl
+# 2x (3) Shield Block
+# 1x (3) Smolderthorn Lancer
+# 2x (5) Brawl
+# 2x (5) Emberscale Drake
+# 1x (5) Harrison Jones
+# 1x (5) Supercollider
+# 2x (7) Crowd Roaster
+# 1x (7) Wyrmguard
+# 1x (9) Alexstrasza
+# 1x (9) Baku the Mooneater
+# 1x (9) Dragonhatcher
+# 
+AAECAQcK/wOiBMUEkAe5wwLd6wKM7wKe+AKO+wKLhwMKS6IC/wfMwwKm7wLl7wLq9wL4hgOBhwPolAMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
