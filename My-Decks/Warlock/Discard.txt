@@ -1,0 +1,29 @@
+### Discard
+# Class: Warlock
+# Format: Standard
+# Year of the Raven
+#
+# 2x (0) Sacrificial Pact
+# 1x (1) Corruption
+# 1x (1) Dark Pact
+# 1x (1) Dark Possession
+# 1x (1) Lakkari Sacrifice
+# 2x (1) Shriek
+# 2x (1) Soulfire
+# 1x (2) Demonic Project
+# 2x (2) Gnomeferatu
+# 2x (2) Succubus
+# 2x (3) Drain Life
+# 2x (3) Reckless Diretroll
+# 1x (4) Fiendish Circle
+# 1x (4) High Priestess Jeklik
+# 2x (4) Lakkari Felhound
+# 1x (5) Doomguard
+# 2x (6) Cruel Dinomancer
+# 2x (6) Soulwarden
+# 1x (10) Bloodreaver Gul'dan
+# 1x (10) Deathwing
+# 
+AAECAf0GCvcEwgbWB4DHAvjQApfTApDuArnvAvCGA4CKAwqjAdAElwfOB43HApHHAq7NAtKGA9aGA6+NAwA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
