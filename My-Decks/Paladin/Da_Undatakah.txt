@@ -1,29 +1,29 @@
-### Da_Undertakah
+### Da_Undatakah
 # Class: Paladin
 # Format: Standard
 # Year of the Raven
 #
-# 2x (1) Autodefense Matrix
-# 2x (1) Eye for an Eye
-# 2x (1) Glow-Tron
-# 2x (1) Noble Sacrifice
-# 2x (1) Repentance
-# 2x (2) Hydrologist
+# 2x (1) Blessing of Might
+# 2x (1) Blessing of Wisdom
+# 2x (1) Redemption
 # 1x (2) Immortal Prelate
 # 2x (2) Potion of Heroism
-# 2x (3) Blackwald Pixie
-# 1x (3) Divine Favor
-# 2x (3) Stonehill Defender
-# 1x (3) Time Out!
-# 1x (4) Bellringer Sentry
+# 1x (2) Sound the Bells!
+# 2x (2) Youthful Brewmaster
+# 1x (3) Aldor Peacekeeper
+# 1x (3) Benevolent Djinn
+# 2x (3) Divine Favor
+# 2x (4) Ancient Brewmaster
+# 2x (4) Blessing of Kings
 # 2x (4) Consecration
-# 1x (4) Hammer of Wrath
-# 1x (5) Rusty Recycler
+# 2x (4) Hammer of Wrath
 # 1x (5) Zilliax
+# 1x (6) Mechanical Whelp
+# 1x (7) Guardian of Kings
 # 1x (7) Silver Vanguard
 # 1x (8) Da Undatakah
 # 1x (9) Uther of the Ebon Blade
 # 
-AAECAZ8FCvoBpwWO0wLn4QKt8gKQ9gKggAPPhgPmhgOLigMK6AHOA9wDyASzwQKbwgLt0gLl7wLW/gLY/gIA
+AAECAZ8FCqwIjwmO0wLn4QKy6QL57AK09gKggAPmhgOLigMKRowBugH6AZ8D3AOnBa8H3Qrt0gIA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
