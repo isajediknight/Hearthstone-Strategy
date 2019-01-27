@@ -3,15 +3,16 @@
 # Format: Standard
 # Year of the Raven
 #
-# 2x (1) Blessing of Might
-# 1x (2) Acidic Swamp Ooze
-# 1x (2) Argent Protector
+# 1x (2) Crystalsmith Kangor
+# 1x (2) Equality
+# 1x (2) Flash of Light
 # 1x (2) Immortal Prelate
-# 2x (2) Novice Engineer
 # 2x (2) Potion of Heroism
 # 1x (2) Sound the Bells!
 # 2x (2) Youthful Brewmaster
 # 1x (3) Aldor Peacekeeper
+# 2x (3) Benevolent Djinn
+# 1x (3) High Priest Thekal
 # 1x (3) Lone Champion
 # 2x (3) Stonehill Defender
 # 1x (3) Time Out!
@@ -26,6 +27,6 @@
 # 1x (8) Da Undatakah
 # 1x (9) Uther of the Ebon Blade
 # 
-AAECAZ8FDooHrwf+B48JjtMC0dMC5+EC+ewCxfMCkPYCoIADz4YD5oYDi4oDCEa6AfoBnAKfA9wDm8IC7dICAA==
+AAECAZ8FEPQFrwePCY7TAtHTAufhAvnsAsXzApD2Av37AqCAA8+GA+aGA+yGA86HA4uKAwe6AfoBnwPcA5vCAu3SArLpAgA=
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
