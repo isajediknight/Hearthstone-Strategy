@@ -1,0 +1,26 @@
+### Corruption
+# Class: Druid
+# Format: Standard
+# Year of the Raven
+#
+# 2x (0) Innervate
+# 2x (0) Moonfire
+# 2x (1) Lesser Jasper Spellstone
+# 2x (1) Naturalize
+# 2x (2) Loot Hoarder
+# 2x (2) Wild Pyromancer
+# 1x (2) Wrath
+# 2x (3) Acolyte of Pain
+# 2x (3) Ferocious Howl
+# 2x (3) Voodoo Doll
+# 1x (4) Branching Paths
+# 2x (4) Forest Guide
+# 2x (4) Oaken Summons
+# 2x (4) Swipe
+# 2x (7) Dreampetal Florist
+# 1x (8) King Togwaggle
+# 1x (10) Hakkar, the Soulflayer
+# 
+AAECAZICBMQGntIC/esClooDDUDpAfsB/gHTA/YH+wyY0gKE5gK38QK/8gKe+QLk+wIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
