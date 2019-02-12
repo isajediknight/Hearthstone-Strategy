@@ -1,0 +1,26 @@
+### MattyIce
+# Class: Rogue
+# Format: Standard
+# Year of the Raven
+#
+# 1x (0) Preparation
+# 2x (0) Shadowstep
+# 2x (2) Lab Recruiter
+# 2x (2) Pogo-Hopper
+# 2x (2) Sap
+# 1x (3) Acolyte of Pain
+# 2x (3) Fan of Knives
+# 1x (3) Headcrack
+# 2x (3) Ironbeak Owl
+# 1x (3) Sonya Shadowdancer
+# 2x (4) Elven Minstrel
+# 2x (4) Spirit of the Shark
+# 2x (4) Walk the Plank
+# 2x (4) Witchwood Piper
+# 2x (5) Assassinate
+# 2x (6) Vanish
+# 2x (7) Sprint
+# 
+AAECAaIHBMQFhgn7DM/hAg3EAaIC2QLtAs0D9gSbBdvjAqbwAtf6AuD6ArSGA86MAwA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

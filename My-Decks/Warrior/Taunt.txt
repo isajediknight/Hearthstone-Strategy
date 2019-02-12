@@ -1,0 +1,30 @@
+### Taunt
+# Class: Warrior
+# Format: Standard
+# Year of the Raven
+#
+# 1x (1) Fire Plume's Heart
+# 1x (1) Omega Assembly
+# 2x (2) Belligerent Gnome
+# 1x (2) Cornered Sentry
+# 1x (2) Dead Man's Hand
+# 2x (2) Execute
+# 2x (2) Stubborn Gastropod
+# 2x (3) Phantom Militia
+# 2x (3) Stonehill Defender
+# 1x (3) Tar Creeper
+# 1x (4) Blood Razor
+# 1x (4) Saronite Chain Gang
+# 2x (5) Brawl
+# 1x (5) Carnivorous Cube
+# 2x (5) Direhorn Hatchling
+# 2x (5) Rotten Applebaum
+# 2x (5) Rusty Recycler
+# 1x (5) Zilliax
+# 1x (8) Grommash Hellscream
+# 1x (8) The Lich King
+# 1x (8) Woecleaver
+# 
+AAECAQcM0gK+wwLKwwLTwwKbywLMzQKOzgLCzgKL4QL95wKD+wKggAMJS5EGm8IC5sICoscCquwCxfMCkPYC2YkDAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

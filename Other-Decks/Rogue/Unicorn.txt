@@ -1,0 +1,27 @@
+### Unicorn's Rogue
+# Class: Rogue
+# Format: Standard
+# Year of the Raven
+#
+# 2x (0) Backstab
+# 2x (1) Argent Squire
+# 2x (1) Deadly Poison
+# 2x (1) Dire Mole
+# 2x (1) Fire Fly
+# 2x (1) Glacial Shard
+# 2x (1) Gravelsnout Knight
+# 1x (1) Sinister Strike
+# 2x (1) Southsea Deckhand
+# 2x (2) Cold Blood
+# 1x (2) Eviscerate
+# 2x (3) Hench-Clan Thug
+# 2x (3) SI:7 Agent
+# 1x (3) Vicious Fledgling
+# 1x (3) Void Ripper
+# 1x (5) Cobalt Scalebane
+# 2x (5) Fungalmancer
+# 1x (9) Baku the Mooneater
+# 
+AAECAaIHBsYFiAefwgLKywL96gKe+AIMtAGMAssD1AX1Bd0Il8EC68ICiNQC0eECi+UCpu8CAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

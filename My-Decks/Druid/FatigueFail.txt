@@ -1,0 +1,26 @@
+### FatigueFail
+# Class: Druid
+# Format: Standard
+# Year of the Raven
+#
+# 2x (0) Innervate
+# 2x (0) Moonfire
+# 2x (1) Biology Project
+# 2x (1) Earthen Scales
+# 2x (1) Lesser Jasper Spellstone
+# 2x (1) Naturalize
+# 2x (2) Druid of the Swarm
+# 2x (2) Mark of the Wild
+# 2x (3) Ferocious Howl
+# 2x (3) Lone Champion
+# 2x (3) Stonehill Defender
+# 2x (4) Keeper of the Grove
+# 1x (5) Zilliax
+# 2x (6) Spreading Plague
+# 1x (7) Dreampetal Florist
+# 1x (8) King Togwaggle
+# 1x (10) Hakkar, the Soulflayer
+# 
+AAECAZICBP3rAuT7AqCAA5aKAw3VAekB/gHTA9kE+cACm8ICm80CoM0CmNIC0dMCv/ICj/YCAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

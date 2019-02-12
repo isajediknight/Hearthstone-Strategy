@@ -4,6 +4,7 @@
 #
 # 1x (1) Grimscale Oracle
 # 1x (1) Murloc Tidecaller
+# 1x (1) Unite the Murlocs
 # 1x (2) Bilefin Tidehunter
 # 1x (2) Blowgill Sniper
 # 1x (2) Bluegill Warrior
@@ -11,7 +12,6 @@
 # 1x (2) Devolve
 # 1x (2) Ghost Light Angler
 # 1x (2) Ice Fishing
-# 1x (2) Murloc Tidehunter
 # 1x (2) Primalfin Totem
 # 1x (2) Puddlestomper
 # 1x (2) Rockpool Hunter
@@ -33,6 +33,6 @@
 # 1x (7) Sated Threshadon
 # 1x (8) The Runespear
 # 
-AAEBAfWfAx7gAsUD2wP+A/UE4wX+BdAH+AeTCdgP8A/DFoqtApGtAuO7Aq28Ava9ApHBArLBAp3CAobEArbNAvvNAovOAs3TAtHmAvPnAuHpAvDzAgAA
+AAEBAfWfAx7gAsUD2wP+A/UE4wX+BfgHkwnYD/APwxaKrQKRrQLjuwKtvAL2vQKRwQKywQKdwgKGxAKbxAK2zQL7zQKLzgLN0wLR5gLz5wLh6QLw8wIAAA==
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone

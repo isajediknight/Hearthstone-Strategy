@@ -1,0 +1,27 @@
+### Dragon Warrior
+# Class: Warrior
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Swamp Dragon Egg
+# 1x (2) Dead Man's Hand
+# 2x (2) Dragon Roar
+# 2x (2) Execute
+# 2x (2) Faerie Dragon
+# 2x (2) Firetree Witchdoctor
+# 1x (3) Smolderthorn Lancer
+# 2x (4) Ebon Dragonsmith
+# 2x (4) Twilight Drake
+# 2x (5) Brawl
+# 2x (5) Cobalt Scalebane
+# 2x (5) Dragonmaw Scorcher
+# 2x (5) Emberscale Drake
+# 1x (5) Supercollider
+# 2x (7) Crowd Roaster
+# 1x (8) Grommash Hellscream
+# 1x (8) Woecleaver
+# 1x (9) Alexstrasza
+# 
+AAECAQcG0gLFBI7OAv3nAo77AouHAwxL4QSRBo0IyssCydMC6vcCgYcD6IkD7IkDqosD6JQDAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

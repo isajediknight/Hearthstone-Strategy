@@ -4,7 +4,6 @@
 # Year of the Raven
 #
 # 1x (2) Crystalsmith Kangor
-# 1x (2) Equality
 # 1x (2) Flash of Light
 # 1x (2) Immortal Prelate
 # 2x (2) Potion of Heroism
@@ -19,6 +18,7 @@
 # 2x (4) Ancient Brewmaster
 # 1x (4) Blessing of Kings
 # 2x (4) Consecration
+# 1x (4) Equality
 # 2x (4) Hammer of Wrath
 # 1x (5) Rotten Applebaum
 # 1x (5) Rusty Recycler
