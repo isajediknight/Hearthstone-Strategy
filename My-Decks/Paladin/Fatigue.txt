@@ -1,0 +1,27 @@
+### Fatigue
+# Class: Paladin
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Argent Squire
+# 2x (1) Blessing of Might
+# 2x (1) Righteous Protector
+# 1x (2) Bloodmage Thalnos
+# 1x (2) Crystalsmith Kangor
+# 2x (2) Flash of Light
+# 2x (2) Holy Light
+# 1x (2) Immortal Prelate
+# 2x (2) Serpent Ward
+# 2x (2) Sound the Bells!
+# 2x (2) Soup Vendor
+# 2x (2) Volatile Elemental
+# 1x (3) Benevolent Djinn
+# 2x (3) Earthen Ring Farseer
+# 1x (3) High Priest Thekal
+# 2x (4) Lifedrinker
+# 2x (5) Call to Arms
+# 1x (9) Alexstrasza
+# 
+AAECAZ8FBsUE7QWy6QL9+wLmhgPOhwMMRqMC9QXzDLTEAuPLAvjSAvnsAu/xAoiFA+yGA8OdAwA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
