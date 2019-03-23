@@ -7,10 +7,10 @@
 # 2x (1) Argent Squire
 # 2x (1) Blessing of Might
 # 2x (1) Fire Fly
+# 2x (1) Glow-Tron
 # 2x (1) Lost in the Jungle
-# 1x (1) Mecharoo
 # 2x (1) Righteous Protector
-# 2x (1) Secretkeeper
+# 1x (3) Divine Favor
 # 2x (3) Raid Leader
 # 2x (3) Stonehill Defender
 # 2x (3) Unidentified Maul
@@ -21,6 +21,6 @@
 # 2x (7) Vinecleaver
 # 1x (9) Baku the Mooneater
 # 
-AAECAZ8FBPEF+9MCnvgC9v0CDUaeAfAD9QX5CpvCAuvCAoPHArjHAuPLApXOAtHhAtblAgA=
+AAECAZ8FBKcF8QX70wKe+AINRvAD9QX5CpvCAuvCAoPHArjHAuPLApXOAtHhAtblAtb+AgA=
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone

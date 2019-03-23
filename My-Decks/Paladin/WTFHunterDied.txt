@@ -1,0 +1,28 @@
+### WTFHunterDied
+# Class: Paladin
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Adaptation
+# 2x (1) Blessing of Wisdom
+# 2x (2) Flash of Light
+# 1x (2) Potion of Heroism
+# 1x (2) Youthful Brewmaster
+# 1x (3) High Priest Thekal
+# 2x (4) Ancient Brewmaster
+# 2x (4) Arena Fanatic
+# 2x (4) Consecration
+# 2x (4) Equality
+# 2x (4) Gnomish Inventor
+# 2x (4) Witchwood Piper
+# 2x (4) Zandalari Templar
+# 1x (5) Harrison Jones
+# 1x (5) Rotten Applebaum
+# 1x (5) Zilliax
+# 2x (7) Guardian of Kings
+# 1x (9) Alexstrasza
+# 1x (9) Uther of the Ebon Blade
+# 
+AAECAZ8FCJ8DxQSQB+3SAo7TAsXzAqCAA86HAwu6AbQC3AP0BawI3QrYxwKm8ALshgPdiQPSigMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

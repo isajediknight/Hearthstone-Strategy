@@ -3,26 +3,25 @@
 # Format: Standard
 # Year of the Raven
 #
-# 2x (0) Sacrificial Pact
 # 1x (1) Dark Pact
 # 1x (1) Lakkari Sacrifice
 # 2x (1) Shriek
 # 2x (1) Soulfire
-# 1x (2) Defile
+# 2x (2) Defile
 # 2x (2) Gnomeferatu
 # 2x (2) Succubus
+# 2x (3) Howlfiend
 # 2x (3) Reckless Diretroll
-# 1x (4) Hellfire
 # 1x (4) High Priestess Jeklik
 # 2x (4) Lakkari Felhound
-# 1x (5) Despicable Dreadlord
 # 2x (5) Doomguard
 # 2x (5) Rotten Applebaum
 # 2x (6) Cruel Dinomancer
+# 1x (6) Siphon Soul
 # 2x (6) Soulwarden
 # 1x (10) Bloodreaver Gul'dan
 # 1x (10) Deathwing
 # 
-AAECAf0GCMIGtgeAxwLnywL3zQL40AKX0wLwhgMLowHQBPcEzgeNxwKRxwKuzQLF8wLShgPWhgOvjQMA
+AAECAf0GBsIGzAiAxwL40AKX0wLwhgMM0AT3BM4HjccCkccC58sCks0Crs0CxfMC0oYD1oYDr40DAA==
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone

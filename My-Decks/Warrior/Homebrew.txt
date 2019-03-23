@@ -1,0 +1,30 @@
+### Homebrew
+# Class: Warrior
+# Format: Standard
+# Year of the Raven
+#
+# 1x (1) Molten Blade
+# 1x (1) Omega Assembly
+# 1x (1) Upgrade!
+# 1x (2) Dead Man's Hand
+# 2x (2) Dragon Roar
+# 2x (2) Execute
+# 2x (2) Heroic Strike
+# 2x (2) Slam
+# 2x (2) Warpath
+# 2x (2) Weapons Project
+# 1x (3) Witch's Cauldron
+# 2x (5) Brawl
+# 1x (5) Supercollider
+# 2x (7) Silver Vanguard
+# 2x (8) Deranged Doctor
+# 1x (8) Grommash Hellscream
+# 1x (8) Mosh'Ogg Enforcer
+# 1x (8) The Lich King
+# 1x (8) Woecleaver
+# 1x (10) Deathwing
+# 1x (10) Hakkar, the Soulflayer
+# 
+AAECAQcM0gL/A8IGzMMCjs4Cws4C/ecC7vcCg/sCjvsC2IkDlooDCUuRBu8Hsgjn4QLA7AKb8wL09QKqiwMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

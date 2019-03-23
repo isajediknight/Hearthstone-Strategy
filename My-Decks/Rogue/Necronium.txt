@@ -1,0 +1,27 @@
+### Necronium
+# Class: Rogue
+# Format: Standard
+# Year of the Raven
+#
+# 1x (2) Betrayal
+# 1x (2) Bloodmage Thalnos
+# 2x (2) Roll the Bones
+# 2x (2) Sap
+# 2x (3) Necrium Blade
+# 2x (3) Plague Scientist
+# 2x (3) Shallow Gravedigger
+# 2x (3) Violet Haze
+# 2x (4) Blightnozzle Crawler
+# 2x (4) Kobold Illusionist
+# 1x (4) Spiritsinger Umbra
+# 2x (4) Walk the Plank
+# 2x (5) Carnivorous Cube
+# 1x (5) Lesser Onyx Spellstone
+# 1x (5) Necrium Vial
+# 2x (5) Rotten Applebaum
+# 2x (8) Deranged Doctor
+# 1x (10) Hakkar, the Soulflayer
+# 
+AAECAaIHBpoC7QXJwgLY6QLs/AKWigMMzQPAzAKhzgKU0AKL4QLw5gLA7ALF8wKj9wLe+gLRgQPOjAMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
