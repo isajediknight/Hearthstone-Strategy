@@ -1,0 +1,25 @@
+### Odd_Elements
+# Class: Shaman
+# Format: Wild
+#
+# 2x (1) Fire Fly
+# 2x (1) Glacial Shard
+# 2x (1) Witch's Apprentice
+# 2x (3) Bog Slosher
+# 2x (3) Hot Spring Guardian
+# 2x (3) Igneous Elemental
+# 2x (3) Lightning Storm
+# 2x (3) Primal Talismans
+# 2x (3) Stonehill Defender
+# 2x (3) Tar Creeper
+# 2x (3) Tuskarr Totemic
+# 2x (3) Unbound Elemental
+# 1x (5) Carnivorous Cube
+# 2x (5) Windshear Stormcaller
+# 1x (7) Stone Sentinel
+# 1x (9) Baku the Mooneater
+# 1x (11) Snowfury Giant
+# 
+AAEBAfWfAwScwQKNzgKL4QKe+AIN9QSGBtETl8ECm8IC68ICysMCh8QCxscC0eYC6OoClu8Ci4UDAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

@@ -1,0 +1,26 @@
+### Failsummons
+# Class: Warlock
+# Format: Standard
+# Year of the Dragon
+#
+# 2x (0) Sacrificial Pact
+# 2x (1) Mortal Coil
+# 2x (2) Demonfire
+# 1x (2) Plot Twist
+# 2x (3) Impferno
+# 2x (3) Rafaam's Scheme
+# 2x (3) Shadow Bolt
+# 2x (4) Fiendish Circle
+# 2x (4) Hellfire
+# 1x (4) Pit Lord
+# 2x (4) Shadowflame
+# 2x (6) Aranasi Broodmother
+# 2x (6) Darkest Hour
+# 2x (6) Mad Summoner
+# 2x (6) Portal Overfiend
+# 1x (6) Siphon Soul
+# 1x (8) Fel Lord Betrug
+# 
+AAECAf0GBI8GzAjamwOJnQMNkwGjAZIHtgfECPYIkO4Cq5ED/pUD2pYDhpoDh50D1p0DAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

@@ -1,0 +1,25 @@
+### Elemental
+# Class: Shaman
+# Format: Standard
+# Year of the Dragon
+#
+# 2x (1) Lightning Bolt
+# 2x (2) Ancestral Spirit
+# 1x (2) Earthen Might
+# 2x (2) Elementary Reaction
+# 2x (2) Menacing Nimbus
+# 2x (2) Rockbiter Weapon
+# 2x (2) Windfury
+# 2x (2) Witch's Brew
+# 2x (3) Bog Slosher
+# 1x (3) Far Sight
+# 2x (3) Lightning Storm
+# 2x (3) Unbound Elemental
+# 2x (5) Bloodlust
+# 2x (5) Hagatha's Scheme
+# 2x (6) Fire Elemental
+# 2x (8) Walking Fountain
+# 
+AAECAfWfAwKyBrDwAg4zvQHvAZQD+QP1BIYGkwmz9wKKgAOLhQOtkQOKlAPFmQMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

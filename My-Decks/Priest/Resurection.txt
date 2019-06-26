@@ -1,0 +1,25 @@
+### Resurection
+# Class: Priest
+# Format: Wild
+#
+# 2x (0) Forbidden Words
+# 2x (0) Silence
+# 1x (1) Binding Heal
+# 2x (2) Divine Hymn
+# 2x (2) Mind Blast
+# 2x (2) Resurrect
+# 2x (2) Shadow Word: Pain
+# 1x (2) Spirit Lash
+# 2x (3) Shadow Word: Death
+# 2x (3) Twilight's Call
+# 1x (4) Archmage Vargoth
+# 2x (4) Eternal Servitude
+# 2x (5) Convincing Infiltrator
+# 2x (5) Holy Nova
+# 2x (9) Mass Resurrection
+# 1x (9) Obsidian Statue
+# 2x (12) Grave Horror
+# 
+AAEBAa0GBNLBAubMAvDPAtaZAw2hBMkGpQnTCtcK+hHlzAKp4gK98wLrigOClAOYmwOZmwMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

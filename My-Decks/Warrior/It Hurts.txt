@@ -1,0 +1,38 @@
+### It Hurts
+# Class: Warrior
+# Format: Wild
+#
+# 1x (0) Inner Rage
+# 1x (1) Animated Berserker
+# 1x (1) Whirlwind
+# 1x (2) Armorsmith
+# 1x (2) Cruel Taskmaster
+# 1x (2) Dead Man's Hand
+# 1x (2) Execute
+# 1x (2) Explosive Sheep
+# 1x (2) Mad Bomber
+# 1x (2) Rampage
+# 1x (2) Unstable Ghoul
+# 1x (3) Acolyte of Pain
+# 1x (3) Blood Warriors
+# 1x (3) Frothing Berserker
+# 1x (3) Overlord's Whip
+# 1x (3) Ravaging Ghoul
+# 1x (4) Axe Flinger
+# 1x (4) Blood Razor
+# 1x (4) Death's Bite
+# 1x (4) Night Howler
+# 1x (5) Dragonmaw Scorcher
+# 1x (5) Grim Patron
+# 1x (5) Gurubashi Berserker
+# 1x (5) Madder Bomber
+# 1x (6) Missile Launcher
+# 1x (6) Reno Jackson
+# 1x (6) Sea Reaver
+# 1x (6) Security Rover
+# 1x (7) Blackhowl Gunspire
+# 1x (8) Grommash Hellscream
+# 
+AAEBAQceFp0C0gLUBPwEjgX6BYAGkQbUCPsMjQ6QDvwPihDnEfkRoxXDFoKtAsCvAs3LAszNAo7OArrOAoHtAuT3Aqj7AuyJA6OLAwAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

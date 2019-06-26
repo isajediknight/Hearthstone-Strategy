@@ -1,27 +1,25 @@
 ### Kingsbane
 # Class: Rogue
-# Format: Standard
-# Year of the Raven
+# Format: Wild
 #
 # 2x (0) Shadowstep
 # 2x (1) Deadly Poison
 # 1x (1) Kingsbane
+# 2x (1) Leeching Poison
+# 1x (2) Acidic Swamp Ooze
 # 2x (2) Cavern Shinyfinder
 # 2x (2) Cheat Death
-# 2x (2) Leeching Poison
 # 2x (2) Sap
-# 2x (2) Shiv
-# 1x (3) Acolyte of Pain
 # 2x (3) Cutthroat Buccaneer
-# 2x (3) Fan of Knives
-# 1x (4) Cult Master
-# 2x (4) Elven Minstrel
-# 1x (4) Fal'dorei Strider
-# 2x (4) Gnomish Inventor
-# 1x (4) Runeforge Haunter
+# 2x (3) Mimic Pod
+# 1x (4) Blade Flurry
+# 2x (4) Dread Corsair
+# 1x (4) Elven Minstrel
+# 2x (4) Naga Corsair
+# 2x (4) Tinker's Sharpsword Oil
 # 2x (4) Witchwood Piper
-# 1x (5) Harrison Jones
+# 2x (6) Vanish
 # 
-AAECAaIHBqsGkAf7DMPOAtzRArvvAgy0Au0CywPNA70EmwWpzQLl0QLQ4wLb4wKm8ALJ+wIA
+AAEBAaIHBIoHqAjb4wK77wINxAHtAssDzQPuBq8Qub8C/MECqc0C5dEC0OMCpvACyfsCAA==
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone

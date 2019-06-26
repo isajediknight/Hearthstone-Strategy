@@ -1,27 +1,38 @@
 ### Deathrattle
 # Class: Rogue
-# Format: Standard
-# Year of the Raven
+# Format: Wild
 #
-# 2x (2) Lost Spirit
-# 2x (2) Roll the Bones
-# 2x (2) Sap
+# 1x (1) Clockwork Gnome
+# 1x (1) Goblin Bomb
+# 1x (1) Journey Below
+# 1x (1) Leper Gnome
+# 1x (1) Tentacle of N'Zoth
+# 1x (2) Bloodmage Thalnos
+# 1x (2) Lost Spirit
+# 1x (2) Nerubian Egg
+# 1x (2) Sap
+# 1x (2) Violet Haze
 # 1x (2) Volatile Elemental
-# 2x (3) Devilsaur Egg
-# 1x (3) Kaboom Bot
-# 2x (3) Necrium Blade
-# 2x (3) Shallow Gravedigger
+# 1x (3) Devilsaur Egg
+# 1x (3) Necrium Blade
 # 1x (3) Sonya Shadowdancer
-# 2x (4) Blightnozzle Crawler
-# 2x (4) Kobold Illusionist
+# 1x (3) Unearthed Raptor
+# 1x (3) Voodoo Doll
+# 1x (4) Baron Rivendare
+# 1x (4) Blightnozzle Crawler
+# 1x (4) Kobold Illusionist
 # 1x (4) Spiritsinger Umbra
-# 2x (4) Walk the Plank
-# 2x (5) Carnivorous Cube
+# 1x (5) Carnivorous Cube
+# 1x (5) Lesser Onyx Spellstone
 # 1x (5) Necrium Vial
-# 2x (5) Rotten Applebaum
-# 2x (6) Mechanical Whelp
-# 1x (10) Deathwing
+# 1x (5) Rotten Applebaum
+# 1x (6) Moat Lurker
+# 1x (6) Reno Jackson
+# 1x (6) Vanish
+# 1x (8) Da Undatakah
+# 1x (8) Deranged Doctor
+# 1x (10) N'Zoth, the Corruptor
 # 
-AAECAaIHBsIGycICtMQCz+EC7PwC/4ADDM0Dq8ICwMwCoc4Ci+EC8OYC5u4CxfMCtPYC3voC0YEDzowDAA==
+AAEBAaIHHsQBzQOSBe0F+g37DoIQwxbLFvmrAuCsAoStAqm0AqvCAsnCArTEAovhAs/hAvDmAtjpAsDsAubuArfxAsXzAt31AqP3At76Auz8AtGBA4uKAwAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone

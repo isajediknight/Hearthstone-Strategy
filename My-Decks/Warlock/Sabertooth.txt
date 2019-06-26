@@ -1,0 +1,25 @@
+### Sabertooth
+# Class: Warlock
+# Format: Wild
+#
+# 2x (0) Sacrificial Pact
+# 2x (2) Bloodbloom
+# 2x (2) Defile
+# 2x (2) Plot Twist
+# 2x (3) Demonwrath
+# 2x (3) Rafaam's Scheme
+# 2x (4) Fiendish Circle
+# 2x (4) Hellfire
+# 2x (4) Imp-losion
+# 2x (4) Voidcaller
+# 1x (5) Skull of the Man'ari
+# 2x (6) Darkest Hour
+# 2x (6) Nerubian Unraveler
+# 1x (7) Arch-Villain Rafaam
+# 1x (9) Mal'Ganis
+# 2x (9) Voidlord
+# 1x (10) Bloodreaver Gul'dan
+# 
+AAEBAf0GBMIPl9MC2+kCl5cDDaMBtgeODt0P/RGQxwLnywKnzgLo5wKQ7gKrkQP+lQPamwMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
