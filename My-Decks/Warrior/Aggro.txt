@@ -1,0 +1,38 @@
+### Aggro
+# Class: Warrior
+# Format: Wild
+#
+# 1x (0) Inner Rage
+# 1x (1) Animated Berserker
+# 1x (1) Elven Archer
+# 1x (1) Eternium Rover
+# 1x (1) Improve Morale
+# 1x (1) Omega Assembly
+# 1x (1) Upgrade!
+# 1x (1) Whirlwind
+# 1x (2) Armorsmith
+# 1x (2) Battle Rage
+# 1x (2) Commanding Shout
+# 1x (2) Cruel Taskmaster
+# 1x (2) Execute
+# 1x (2) Rampage
+# 1x (2) Unstable Ghoul
+# 1x (2) Warpath
+# 1x (3) Blood Warriors
+# 1x (3) Marsh Drake
+# 1x (4) Axe Flinger
+# 1x (4) Blood Razor
+# 1x (4) Death's Bite
+# 1x (5) Dyn-o-matic
+# 1x (5) Grim Patron
+# 1x (5) Gurubashi Berserker
+# 1x (5) Supercollider
+# 1x (6) Reno Jackson
+# 1x (6) Sea Reaver
+# 1x (6) Security Rover
+# 1x (7) Blackhowl Gunspire
+# 1x (8) Grommash Hellscream
+# 
+AAEBAQceFp0C0gKFA5AD/wPUBPwEgAaRBoII1AiNDpAO5xH5EaMVwxbArwLMzQK6zgKB7QKb8wL38wLk9wKD+wKO+wKe+wKz/AKEnwMAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

@@ -7,7 +7,7 @@
 # 2x (1) Shriek
 # 2x (1) Soulfire
 # 2x (2) Darkshire Librarian
-# 2x (2) Succubus
+# 2x (2) Felstalker
 # 2x (2) Tiny Knight of Evil
 # 2x (3) Reckless Diretroll
 # 2x (3) Silverware Golem

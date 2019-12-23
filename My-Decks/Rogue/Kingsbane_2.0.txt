@@ -1,0 +1,25 @@
+### Kingsbane 2.0
+# Class: Rogue
+# Format: Wild
+#
+# 2x (1) Deadly Poison
+# 1x (1) Kingsbane
+# 2x (1) Leeching Poison
+# 2x (2) Cavern Shinyfinder
+# 2x (2) Sap
+# 2x (3) Cutthroat Buccaneer
+# 1x (3) Mimic Pod
+# 1x (4) Blade Flurry
+# 2x (4) Dread Corsair
+# 2x (4) Lifedrinker
+# 2x (4) Naga Corsair
+# 2x (4) Raiding Party
+# 2x (4) Runeforge Haunter
+# 2x (4) Tinker's Sharpsword Oil
+# 2x (4) Witchwood Piper
+# 2x (5) Rusty Recycler
+# 1x (5) Zilliax
+# 
+AAEBAaIHBKgI/MECu+8CoIADDcsDzQPuBq8Qub8Cqc0Cw84C5dECpvAC7/ECkPYCyfsC1YwDAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

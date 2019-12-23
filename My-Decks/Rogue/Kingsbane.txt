@@ -2,24 +2,37 @@
 # Class: Rogue
 # Format: Wild
 #
-# 2x (0) Shadowstep
-# 2x (1) Deadly Poison
+# 1x (0) Shadowstep
+# 1x (1) Daring Escape
+# 1x (1) Deadly Poison
 # 1x (1) Kingsbane
-# 2x (1) Leeching Poison
-# 1x (2) Acidic Swamp Ooze
-# 2x (2) Cavern Shinyfinder
-# 2x (2) Cheat Death
-# 2x (2) Sap
-# 2x (3) Cutthroat Buccaneer
-# 2x (3) Mimic Pod
+# 1x (1) Leeching Poison
+# 1x (1) Sinister Strike
+# 1x (2) Cavern Shinyfinder
+# 1x (2) Cheat Death
+# 1x (2) Cold Blood
+# 1x (2) Sap
+# 1x (2) Shiv
+# 1x (3) Cutthroat Buccaneer
+# 1x (3) Fan of Knives
+# 1x (3) Headcrack
+# 1x (3) Mimic Pod
+# 1x (4) Anub'ar Ambusher
 # 1x (4) Blade Flurry
-# 2x (4) Dread Corsair
+# 1x (4) Dread Corsair
 # 1x (4) Elven Minstrel
-# 2x (4) Naga Corsair
-# 2x (4) Tinker's Sharpsword Oil
-# 2x (4) Witchwood Piper
-# 2x (6) Vanish
+# 1x (4) Lifedrinker
+# 1x (4) Naga Corsair
+# 1x (4) Raiding Party
+# 1x (4) Southsea Squidface
+# 1x (4) Tinker's Sharpsword Oil
+# 1x (4) Traveling Healer
+# 1x (4) Walk the Plank
+# 1x (4) Witchwood Piper
+# 1x (5) Dark Iron Skulker
+# 1x (6) Reno Jackson
+# 1x (6) Vanish
 # 
-AAEBAaIHBIoHqAjb4wK77wINxAHtAssDzQPuBq8Qub8C/MECqc0C5dEC0OMCpvACyfsCAA==
+AAEBAaIHHsQBjALtAssDzQO9BJsFxAXGBe4GqAiSDq8Q8xHDFqmvArm/AvzBAqnNAuXRAtDjAtvjArvvAqbwAu/xAsn7As6MA9WMA7aYA8ebAwAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone

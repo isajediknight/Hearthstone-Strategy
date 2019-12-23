@@ -1,0 +1,38 @@
+### Buffs
+# Class: Paladin
+# Format: Wild
+#
+# 1x (1) Blessing of Wisdom
+# 1x (1) Eye for an Eye
+# 1x (1) Never Surrender!
+# 1x (1) Noble Sacrifice
+# 1x (1) Redemption
+# 1x (1) Repentance
+# 1x (1) Sacred Trial
+# 1x (1) Smuggler's Run
+# 1x (2) Grimestreet Outfitter
+# 1x (2) Hydrologist
+# 1x (2) Immortal Prelate
+# 1x (2) Lightforged Blessing
+# 1x (2) Potion of Heroism
+# 1x (2) Sound the Bells!
+# 1x (3) Call to Adventure
+# 1x (3) Commander Rhyssa
+# 1x (3) High Priest Thekal
+# 1x (3) Sword of Justice
+# 1x (4) Arena Fanatic
+# 1x (4) Bellringer Sentry
+# 1x (4) Blessing of Kings
+# 1x (4) Half-Time Scavenger
+# 1x (5) Glowstone Technician
+# 1x (5) Grim Patron
+# 1x (6) Mysterious Challenger
+# 1x (6) Reno Jackson
+# 1x (6) Spikeridged Steed
+# 1x (8) Deranged Doctor
+# 1x (8) Silver Sword
+# 1x (10) Deathwing
+# 
+AAEBAcOfAx6MAegBzgPIBIMFwgavB90K5xGmFcMW0xazuwL3vAKzwQKIxwLt0gLA7AL57ALh8AKt8gLd/gKZ/wLmhgPOhwPdiQOKmgOOmgOUmgO0mwMAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

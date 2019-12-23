@@ -1,0 +1,38 @@
+### Spells
+# Class: Hunter
+# Format: Wild
+#
+# 1x (1) Secret Plan
+# 1x (1) The Beast Within
+# 1x (2) Bomb Toss
+# 1x (2) Explorer's Hat
+# 1x (2) Explosive Trap
+# 1x (2) Feign Death
+# 1x (2) Flare
+# 1x (2) Freezing Trap
+# 1x (2) Goblin Prank
+# 1x (2) Misdirection
+# 1x (2) Pressure Plate
+# 1x (2) Rat Trap
+# 1x (2) Revenge of the Wild
+# 1x (2) Snipe
+# 1x (2) Venomstrike Trap
+# 1x (2) Wandering Monster
+# 1x (3) Animal Companion
+# 1x (3) Deadly Shot
+# 1x (3) Hunter's Pack
+# 1x (3) Infest
+# 1x (3) Kill Command
+# 1x (4) Flanking Strike
+# 1x (4) Marked Shot
+# 1x (4) Multi-Shot
+# 1x (5) Baited Arrow
+# 1x (5) Cobra Shot
+# 1x (5) Explosive Shot
+# 1x (6) To My Side!
+# 1x (6) Unleash the Beast
+# 1x (10) Zul'jin
+# 
+AAEBAa/XAx6kAqgCigO1A4cEyQSuBoAHwwjFCMcP+Q+5F7mrAp3MAt3SAt/SAurjApjwAuD1Aof7AoL9ApuFA6KKA9SLA9ePA+aWA/mWA+WkA5+lAwAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
