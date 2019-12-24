@@ -2,37 +2,37 @@
 # Class: Mage
 # Format: Wild
 #
+# 1x (0) Freezing Potion
+# 1x (0) Shifting Scroll
+# 1x (1) Arcane Artificer
 # 1x (1) Arcane Missiles
-# 1x (1) Breath of Sindragosa
+# 1x (1) Ice Lance
+# 1x (1) Learn Draconic
+# 1x (1) Magic Trick
 # 1x (1) Mirror Image
+# 1x (1) Tome of Intellect
+# 1x (1) Violet Spellwing
+# 1x (2) Arcane Flakmage
 # 1x (2) Astral Rift
-# 1x (2) Bloodmage Thalnos
+# 1x (2) Flame Geyser
 # 1x (2) Flamecannon
 # 1x (2) Frostbolt
-# 1x (2) Ice Walker
+# 1x (2) Magic Dart Frog
+# 1x (2) Mana Cyclone
 # 1x (2) Raven Familiar
-# 1x (2) Shatter
+# 1x (2) Snap Freeze
 # 1x (2) Sorcerer's Apprentice
-# 1x (3) Arcane Intellect
-# 1x (3) Duplicate
+# 1x (2) Unstable Portal
+# 1x (3) Chenvaala
+# 1x (3) Cinderstorm
+# 1x (3) Counterspell
 # 1x (3) Flamewaker
-# 1x (3) Forgotten Torch
-# 1x (3) Frozen Clone
-# 1x (3) Mana Bind
-# 1x (3) Mirror Entity
 # 1x (3) Simulacrum
-# 1x (3) Twilight Flamecaller
-# 1x (4) Arcane Keysmith
-# 1x (4) Cosmic Anomaly
-# 1x (4) Dalaran Aspirant
 # 1x (4) Echo of Medivh
-# 1x (4) Fireball
-# 1x (5) Azure Drake
-# 1x (6) Blizzard
+# 1x (4) Molten Reflection
+# 1x (4) Witchwood Piper
 # 1x (6) Reno Jackson
-# 1x (7) Flamestrike
-# 1x (9) Frost Lich Jaina
 # 
-AAEBAf0EHsMBuwLJA6sEtATmBJYF7QW5BuwHvAiJDocPlQ/jEfUTuhbDFoesAomsAsbBAtzNAoLOArnRApvTAu7TAtXhAr7sAur2ApX/AgAA
+AAEBAf0EHnGsAbQE5gSWBbwIhw+JD5UP4xHDFoS7Ar/BAtrFArnRApzTAtXhApbkAvvsAqbwAs31Aur2AomWA6aYA+KbA/+dA76kA/isA/usA/GvAwAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
