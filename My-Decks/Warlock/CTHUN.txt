@@ -1,31 +1,38 @@
-### CTHUN_PART5
+### CTHUN_PART11
 # Class: Warlock
 # Format: Wild
 #
-# 2x (1) Mortal Coil
+# 1x (1) Mortal Coil
 # 1x (2) Bloodbloom
-# 1x (2) Bloodmage Thalnos
 # 1x (2) Corrupting Mist
-# 2x (2) Defile
-# 2x (2) Drain Soul
-# 2x (2) Loot Hoarder
-# 2x (3) Drain Life
+# 1x (2) Defile
+# 1x (2) Demonfire
+# 1x (2) Vilefiend
+# 1x (2) Zephrys the Great
+# 1x (3) Felguard
 # 1x (4) Cataclysm
+# 1x (4) Felsoul Inquisitor
 # 1x (4) Pit Lord
+# 1x (4) Voidcaller
 # 1x (5) Despicable Dreadlord
 # 1x (5) Dollmaster Dorian
 # 1x (5) Doomguard
+# 1x (5) Floating Watcher
 # 1x (5) Skull of the Man'ari
-# 2x (6) Aranasi Broodmother
+# 1x (6) Abyssal Summoner
+# 1x (6) Aranasi Broodmother
+# 1x (6) Dread Infernal
 # 1x (6) Emperor Thaurissan
-# 2x (6) Khartut Defender
+# 1x (6) Reno Jackson
+# 1x (7) Abyssal Enforcer
+# 1x (7) Fearsome Doomguard
 # 1x (7) Valdris Felgorge
 # 1x (8) Fel Lord Betrug
+# 1x (9) Krul the Unshackled
 # 1x (9) Mal'Ganis
 # 1x (10) Bloodreaver Gul'dan
 # 1x (10) Mecha'thun
-# 1x (10) N'Zoth, the Corruptor
 # 
-AAEBAf0GEPcE7QWPBsIP1hHgrAKPxwKQxwL3zQKX0wLO6QLb6QLC8QLx+wKJnQPwrAMH+wGXB8QI58sCos0C2pYDoaEDAA==
+AAEBAf0GHoUE9wSPBvsHxAj2CI4Owg+UENYRwBTDFtm8At28Ao/HApDHAufLAvfNApfTAs7pAtvpAo/vAsLxAvH7AtqWA4mdA/yjA6GpA+6sA/CsAwAA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
