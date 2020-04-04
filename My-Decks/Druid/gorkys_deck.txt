@@ -1,0 +1,24 @@
+### gorky's deck
+# Class: Druid
+# Format: Wild
+#
+# 2x (0) Embiggen
+# 2x (1) Bloodsail Corsair
+# 2x (1) Living Roots
+# 2x (1) Mark of the Lotus
+# 1x (1) Patches the Pirate
+# 1x (1) Sir Finley Mrrgglton
+# 2x (1) Southsea Deckhand
+# 2x (2) Crystal Merchant
+# 2x (2) Echoing Ooze
+# 2x (2) Parachute Brigand
+# 2x (2) Power of the Wild
+# 2x (2) Sharkfin Fan
+# 2x (2) Ship's Cannon
+# 2x (3) Savage Roar
+# 2x (4) Frenzied Felwing
+# 2x (4) Jeeves
+# 
+AAEBAZICAoQXkbwCDvcD1AXmBeUHwg77D44Q6BXNuwLPiQOpogP7rQPpsAO6tgMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
