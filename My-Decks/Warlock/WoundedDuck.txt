@@ -1,0 +1,29 @@
+### WoundedDuck
+# Class: Warlock
+# Format: Wild
+#
+# 1x (1) Supreme Archaeology
+# 2x (2) Acidic Swamp Ooze
+# 2x (2) Curse of Rafaam
+# 2x (2) Demonic Project
+# 2x (2) Gnomeferatu
+# 1x (2) Youthful Brewmaster
+# 1x (3) Brann Bronzebeard
+# 2x (3) Chaos Gazer
+# 2x (3) Coldlight Oracle
+# 1x (3) King Mukla
+# 2x (3) Mischief Maker
+# 2x (4) Hungry Dragon
+# 1x (4) Shadowflame
+# 2x (4) Zul'Drak Ritualist
+# 1x (5) Boompistol Bully
+# 1x (5) Chief Inspector
+# 1x (5) Loatheb
+# 1x (5) Zilliax
+# 1x (6) Emperor Thaurissan
+# 1x (6) Mojomaster Zihi
+# 1x (8) King Togwaggle
+# 
+AAEBAf0GDJMBnwOdDfoO1hGFF/3rAuLyAqCAA8CPA+ujA8O2AwmKB/gH6xG/Fq7NAoCKA86iA/awA7K2AwA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
