@@ -1,0 +1,26 @@
+### Bomb
+# Class: Warrior
+# Format: Wild
+#
+# 2x (1) Sky Raider
+# 2x (1) Upgrade!
+# 2x (2) Baleful Banker
+# 1x (2) Bloodsail Raider
+# 2x (2) Corsair Cache
+# 2x (2) Forge of Souls
+# 2x (3) Augmented Elekk
+# 2x (3) Bloodsail Cultist
+# 1x (3) Brann Bronzebeard
+# 2x (3) Clockwork Goblin
+# 2x (3) Skybarge
+# 2x (4) Hoard Pillager
+# 2x (4) Wrenchcalibur
+# 1x (5) Brawl
+# 1x (5) Captain Greenskin
+# 2x (5) Seaforium Bomber
+# 1x (6) Iron Juggernaut
+# 1x (7) Blastmaster Boom
+# 
+AAEBAQcGS8gD5wfoD4UXm5QDDP8DiLAC9s8Cp/cC8fwC9YADl5QDmpQD3K0D3a0D6LADwLkDAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
